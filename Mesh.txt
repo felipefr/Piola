@@ -1,0 +1,108 @@
+*NODAL DOFs
+      3
+*DIMEN
+       3
+*COORDINATES
+      9
+
+0.0 0.0 0.0
+3.0 0.0 0.0
+3.0 1.0 0.0
+0.0 1.0 0.0
+1.0 0.0 0.0
+2.0 0.0 0.0
+1.0 1.0 0.0
+2.0 1.0 0.0
+999.9 999.9 0.0 
+
+*ELEMENT GROUPS
+ 4
+ 1     4 Generic
+ 2     2 Generic
+ 3     2 Generic
+ 4	   1 Generic
+ 3
+ 3
+ 3
+ 3
+ 3
+ 3
+ 1
+ 1
+ 1
+ 
+*INCIDENCE !!! In this case for the fourth and fifth element, the first nodes needs to be different (it will carry beta variable), and the last point is the solitary node
+1 5 7
+1 7 4
+6 2 3
+6 3 8
+7 5 6
+6 8 7
+2
+3
+9
+
+*ELEMENT TYPE
+1
+1
+1
+1
+2
+2
+3
+3
+4
+
+*ELEMENT MAT
+      2
+      3
+      4
+      5
+      6
+      7
+      1
+      1
+      1
+      
+*DIRICHLET CONDITIONS
+
+-1  -1  0   
+0  -1  0   
+0   0  0   
+-1  0  0   
+0  -1  0   
+0  -1  0   
+0  0  0   
+0  0  0   
+0  0  0   
+
+-1  -1  0   
+0  -1  0   
+0   0  0   
+-1  0  0   
+0  -1  0   
+0  -1  0   
+0  0  0   
+0  0  0   
+0  0  0   
+
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+0.0 0.0 0.0 
+
