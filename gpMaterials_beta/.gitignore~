@@ -1,0 +1,9 @@
+/Debug/
+/Release/
+/Static Release/
+/.settings/
+/makefile.defs
+/makefile.init
+/.cproject
+/.gitignore
+/.project

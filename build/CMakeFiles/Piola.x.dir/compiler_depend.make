@@ -213,8 +213,7 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
   /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
   /home/felipefr/github/Piola/src/utils.hpp \
   /home/felipefr/github/Piola/src/linAlg.hpp \
-  /usr/include/armadillo \
-  /usr/include/c++/7/cstddef \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo \
   /usr/include/c++/7/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
@@ -236,11 +235,6 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
   /usr/include/c++/7/bits/stl_tempbuf.h \
   /usr/include/c++/7/bits/uniform_int_dist.h \
   /usr/include/c++/7/complex \
-  /usr/include/c++/7/map \
-  /usr/include/c++/7/bits/stl_tree.h \
-  /usr/include/c++/7/ext/aligned_buffer.h \
-  /usr/include/c++/7/bits/stl_map.h \
-  /usr/include/c++/7/bits/stl_multimap.h \
   /usr/include/unistd.h \
   /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
   /usr/include/x86_64-linux-gnu/bits/environments.h \
@@ -248,9 +242,8 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
   /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
   /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
   /usr/include/x86_64-linux-gnu/sys/time.h \
-  /usr/include/armadillo_bits/compiler_extra.hpp \
-  /usr/include/armadillo_bits/config.hpp \
-  /usr/include/armadillo_bits/compiler_setup.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/config.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/compiler_setup.hpp \
   /usr/include/c++/7/random \
   /usr/include/c++/7/bits/random.h \
   /usr/include/x86_64-linux-gnu/c++/7/bits/opt_random.h \
@@ -263,1196 +256,1005 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
   /usr/include/c++/7/chrono \
   /usr/include/c++/7/ratio \
   /usr/include/c++/7/bits/parse_numbers.h \
-  /usr/include/c++/7/mutex \
-  /usr/include/c++/7/bits/std_mutex.h \
-  /usr/include/c++/7/atomic \
-  /usr/include/c++/7/bits/atomic_base.h \
-  /usr/include/c++/7/bits/atomic_lockfree_defines.h \
-  /usr/include/armadillo_bits/include_atlas.hpp \
-  /usr/include/armadillo_bits/include_hdf5.hpp \
-  /usr/include/armadillo_bits/include_superlu.hpp \
-  /usr/include/superlu/supermatrix.h \
-  /usr/include/superlu/superlu_enum_consts.h \
-  /usr/include/armadillo_bits/arma_forward.hpp \
-  /usr/include/armadillo_bits/arma_static_check.hpp \
-  /usr/include/armadillo_bits/typedef_elem.hpp \
-  /usr/include/armadillo_bits/typedef_elem_check.hpp \
-  /usr/include/armadillo_bits/typedef_mat.hpp \
-  /usr/include/armadillo_bits/arma_str.hpp \
-  /usr/include/armadillo_bits/arma_version.hpp \
-  /usr/include/armadillo_bits/arma_config.hpp \
-  /usr/include/armadillo_bits/traits.hpp \
-  /usr/include/armadillo_bits/promote_type.hpp \
-  /usr/include/armadillo_bits/upgrade_val.hpp \
-  /usr/include/armadillo_bits/restrictors.hpp \
-  /usr/include/armadillo_bits/access.hpp \
-  /usr/include/armadillo_bits/span.hpp \
-  /usr/include/armadillo_bits/distr_param.hpp \
-  /usr/include/armadillo_bits/constants.hpp \
-  /usr/include/armadillo_bits/constants_old.hpp \
-  /usr/include/armadillo_bits/mp_misc.hpp \
-  /usr/include/armadillo_bits/arma_rng_cxx98.hpp \
-  /usr/include/armadillo_bits/arma_rng_cxx11.hpp \
-  /usr/include/armadillo_bits/arma_rng.hpp \
-  /usr/include/armadillo_bits/Base_bones.hpp \
-  /usr/include/armadillo_bits/BaseCube_bones.hpp \
-  /usr/include/armadillo_bits/SpBase_bones.hpp \
-  /usr/include/armadillo_bits/def_blas.hpp \
-  /usr/include/armadillo_bits/def_lapack.hpp \
-  /usr/include/armadillo_bits/def_atlas.hpp \
-  /usr/include/armadillo_bits/def_arpack.hpp \
-  /usr/include/armadillo_bits/def_superlu.hpp \
-  /usr/include/armadillo_bits/def_hdf5.hpp \
-  /usr/include/armadillo_bits/wrapper_blas.hpp \
-  /usr/include/armadillo_bits/wrapper_lapack.hpp \
-  /usr/include/armadillo_bits/wrapper_atlas.hpp \
-  /usr/include/armadillo_bits/wrapper_arpack.hpp \
-  /usr/include/armadillo_bits/wrapper_superlu.hpp \
-  /usr/include/armadillo_bits/cond_rel_bones.hpp \
-  /usr/include/armadillo_bits/arrayops_bones.hpp \
-  /usr/include/armadillo_bits/podarray_bones.hpp \
-  /usr/include/armadillo_bits/auxlib_bones.hpp \
-  /usr/include/armadillo_bits/sp_auxlib_bones.hpp \
-  /usr/include/armadillo_bits/injector_bones.hpp \
-  /usr/include/armadillo_bits/Mat_bones.hpp \
-  /usr/include/armadillo_bits/Col_bones.hpp \
-  /usr/include/armadillo_bits/Row_bones.hpp \
-  /usr/include/armadillo_bits/Cube_bones.hpp \
-  /usr/include/armadillo_bits/xvec_htrans_bones.hpp \
-  /usr/include/armadillo_bits/xtrans_mat_bones.hpp \
-  /usr/include/armadillo_bits/SizeMat_bones.hpp \
-  /usr/include/armadillo_bits/SizeCube_bones.hpp \
-  /usr/include/armadillo_bits/SpValProxy_bones.hpp \
-  /usr/include/armadillo_bits/SpMat_bones.hpp \
-  /usr/include/armadillo_bits/SpCol_bones.hpp \
-  /usr/include/armadillo_bits/SpRow_bones.hpp \
-  /usr/include/armadillo_bits/SpSubview_bones.hpp \
-  /usr/include/armadillo_bits/spdiagview_bones.hpp \
-  /usr/include/armadillo_bits/MapMat_bones.hpp \
-  /usr/include/armadillo_bits/typedef_mat_fixed.hpp \
-  /usr/include/armadillo_bits/field_bones.hpp \
-  /usr/include/armadillo_bits/subview_bones.hpp \
-  /usr/include/armadillo_bits/subview_elem1_bones.hpp \
-  /usr/include/armadillo_bits/subview_elem2_bones.hpp \
-  /usr/include/armadillo_bits/subview_field_bones.hpp \
-  /usr/include/armadillo_bits/subview_cube_bones.hpp \
-  /usr/include/armadillo_bits/diagview_bones.hpp \
-  /usr/include/armadillo_bits/subview_each_bones.hpp \
-  /usr/include/armadillo_bits/subview_cube_each_bones.hpp \
-  /usr/include/armadillo_bits/diskio_bones.hpp \
-  /usr/include/armadillo_bits/wall_clock_bones.hpp \
-  /usr/include/armadillo_bits/running_stat_bones.hpp \
-  /usr/include/armadillo_bits/running_stat_vec_bones.hpp \
-  /usr/include/armadillo_bits/Op_bones.hpp \
-  /usr/include/armadillo_bits/OpCube_bones.hpp \
-  /usr/include/armadillo_bits/SpOp_bones.hpp \
-  /usr/include/armadillo_bits/eOp_bones.hpp \
-  /usr/include/armadillo_bits/eOpCube_bones.hpp \
-  /usr/include/armadillo_bits/mtOp_bones.hpp \
-  /usr/include/armadillo_bits/mtOpCube_bones.hpp \
-  /usr/include/armadillo_bits/mtSpOp_bones.hpp \
-  /usr/include/armadillo_bits/Glue_bones.hpp \
-  /usr/include/armadillo_bits/eGlue_bones.hpp \
-  /usr/include/armadillo_bits/mtGlue_bones.hpp \
-  /usr/include/armadillo_bits/SpGlue_bones.hpp \
-  /usr/include/armadillo_bits/GlueCube_bones.hpp \
-  /usr/include/armadillo_bits/eGlueCube_bones.hpp \
-  /usr/include/armadillo_bits/mtGlueCube_bones.hpp \
-  /usr/include/armadillo_bits/eop_core_bones.hpp \
-  /usr/include/armadillo_bits/eglue_core_bones.hpp \
-  /usr/include/armadillo_bits/GenSpecialiser.hpp \
-  /usr/include/armadillo_bits/Gen_bones.hpp \
-  /usr/include/armadillo_bits/GenCube_bones.hpp \
-  /usr/include/armadillo_bits/op_diagmat_bones.hpp \
-  /usr/include/armadillo_bits/op_diagvec_bones.hpp \
-  /usr/include/armadillo_bits/op_dot_bones.hpp \
-  /usr/include/armadillo_bits/op_inv_bones.hpp \
-  /usr/include/armadillo_bits/op_htrans_bones.hpp \
-  /usr/include/armadillo_bits/op_max_bones.hpp \
-  /usr/include/armadillo_bits/op_min_bones.hpp \
-  /usr/include/armadillo_bits/op_index_max_bones.hpp \
-  /usr/include/armadillo_bits/op_index_min_bones.hpp \
-  /usr/include/armadillo_bits/op_mean_bones.hpp \
-  /usr/include/armadillo_bits/op_median_bones.hpp \
-  /usr/include/armadillo_bits/op_sort_bones.hpp \
-  /usr/include/armadillo_bits/op_sort_index_bones.hpp \
-  /usr/include/armadillo_bits/op_sum_bones.hpp \
-  /usr/include/armadillo_bits/op_stddev_bones.hpp \
-  /usr/include/armadillo_bits/op_strans_bones.hpp \
-  /usr/include/armadillo_bits/op_var_bones.hpp \
-  /usr/include/armadillo_bits/op_repmat_bones.hpp \
-  /usr/include/armadillo_bits/op_reshape_bones.hpp \
-  /usr/include/armadillo_bits/op_vectorise_bones.hpp \
-  /usr/include/armadillo_bits/op_resize_bones.hpp \
-  /usr/include/armadillo_bits/op_cov_bones.hpp \
-  /usr/include/armadillo_bits/op_cor_bones.hpp \
-  /usr/include/armadillo_bits/op_shift_bones.hpp \
-  /usr/include/armadillo_bits/op_shuffle_bones.hpp \
-  /usr/include/armadillo_bits/op_prod_bones.hpp \
-  /usr/include/armadillo_bits/op_pinv_bones.hpp \
-  /usr/include/armadillo_bits/op_dotext_bones.hpp \
-  /usr/include/armadillo_bits/op_flip_bones.hpp \
-  /usr/include/armadillo_bits/op_princomp_bones.hpp \
-  /usr/include/armadillo_bits/op_misc_bones.hpp \
-  /usr/include/armadillo_bits/op_orth_null_bones.hpp \
-  /usr/include/armadillo_bits/op_relational_bones.hpp \
-  /usr/include/armadillo_bits/op_find_bones.hpp \
-  /usr/include/armadillo_bits/op_find_unique_bones.hpp \
-  /usr/include/armadillo_bits/op_chol_bones.hpp \
-  /usr/include/armadillo_bits/op_cx_scalar_bones.hpp \
-  /usr/include/armadillo_bits/op_trimat_bones.hpp \
-  /usr/include/armadillo_bits/op_cumsum_bones.hpp \
-  /usr/include/armadillo_bits/op_cumprod_bones.hpp \
-  /usr/include/armadillo_bits/op_symmat_bones.hpp \
-  /usr/include/armadillo_bits/op_hist_bones.hpp \
-  /usr/include/armadillo_bits/op_unique_bones.hpp \
-  /usr/include/armadillo_bits/op_toeplitz_bones.hpp \
-  /usr/include/armadillo_bits/op_fft_bones.hpp \
-  /usr/include/armadillo_bits/op_any_bones.hpp \
-  /usr/include/armadillo_bits/op_all_bones.hpp \
-  /usr/include/armadillo_bits/op_normalise_bones.hpp \
-  /usr/include/armadillo_bits/op_clamp_bones.hpp \
-  /usr/include/armadillo_bits/op_expmat_bones.hpp \
-  /usr/include/armadillo_bits/op_nonzeros_bones.hpp \
-  /usr/include/armadillo_bits/op_diff_bones.hpp \
-  /usr/include/armadillo_bits/op_norm_bones.hpp \
-  /usr/include/armadillo_bits/op_sqrtmat_bones.hpp \
-  /usr/include/armadillo_bits/op_logmat_bones.hpp \
-  /usr/include/armadillo_bits/op_range_bones.hpp \
-  /usr/include/armadillo_bits/op_chi2rnd_bones.hpp \
-  /usr/include/armadillo_bits/op_wishrnd_bones.hpp \
-  /usr/include/armadillo_bits/glue_times_bones.hpp \
-  /usr/include/armadillo_bits/glue_mixed_bones.hpp \
-  /usr/include/armadillo_bits/glue_cov_bones.hpp \
-  /usr/include/armadillo_bits/glue_cor_bones.hpp \
-  /usr/include/armadillo_bits/glue_kron_bones.hpp \
-  /usr/include/armadillo_bits/glue_cross_bones.hpp \
-  /usr/include/armadillo_bits/glue_join_bones.hpp \
-  /usr/include/armadillo_bits/glue_relational_bones.hpp \
-  /usr/include/armadillo_bits/glue_solve_bones.hpp \
-  /usr/include/armadillo_bits/glue_conv_bones.hpp \
-  /usr/include/armadillo_bits/glue_toeplitz_bones.hpp \
-  /usr/include/armadillo_bits/glue_hist_bones.hpp \
-  /usr/include/armadillo_bits/glue_histc_bones.hpp \
-  /usr/include/armadillo_bits/glue_max_bones.hpp \
-  /usr/include/armadillo_bits/glue_min_bones.hpp \
-  /usr/include/armadillo_bits/glue_trapz_bones.hpp \
-  /usr/include/armadillo_bits/glue_atan2_bones.hpp \
-  /usr/include/armadillo_bits/glue_hypot_bones.hpp \
-  /usr/include/armadillo_bits/glue_polyfit_bones.hpp \
-  /usr/include/armadillo_bits/glue_polyval_bones.hpp \
-  /usr/include/armadillo_bits/glue_intersect_bones.hpp \
-  /usr/include/armadillo_bits/glue_affmul_bones.hpp \
-  /usr/include/armadillo_bits/glue_mvnrnd_bones.hpp \
-  /usr/include/armadillo_bits/gmm_misc_bones.hpp \
-  /usr/include/armadillo_bits/gmm_diag_bones.hpp \
-  /usr/include/armadillo_bits/gmm_full_bones.hpp \
-  /usr/include/armadillo_bits/spop_max_bones.hpp \
-  /usr/include/armadillo_bits/spop_min_bones.hpp \
-  /usr/include/armadillo_bits/spop_sum_bones.hpp \
-  /usr/include/armadillo_bits/spop_strans_bones.hpp \
-  /usr/include/armadillo_bits/spop_htrans_bones.hpp \
-  /usr/include/armadillo_bits/spop_misc_bones.hpp \
-  /usr/include/armadillo_bits/spop_diagmat_bones.hpp \
-  /usr/include/armadillo_bits/spop_mean_bones.hpp \
-  /usr/include/armadillo_bits/spop_var_bones.hpp \
-  /usr/include/armadillo_bits/spop_trimat_bones.hpp \
-  /usr/include/armadillo_bits/spop_symmat_bones.hpp \
-  /usr/include/armadillo_bits/spglue_plus_bones.hpp \
-  /usr/include/armadillo_bits/spglue_minus_bones.hpp \
-  /usr/include/armadillo_bits/spglue_times_bones.hpp \
-  /usr/include/armadillo_bits/spglue_join_bones.hpp \
-  /usr/include/armadillo_bits/spglue_kron_bones.hpp \
-  /usr/include/armadillo_bits/newarp_EigsSelect.hpp \
-  /usr/include/armadillo_bits/newarp_DenseGenMatProd_bones.hpp \
-  /usr/include/armadillo_bits/newarp_SparseGenMatProd_bones.hpp \
-  /usr/include/armadillo_bits/newarp_DoubleShiftQR_bones.hpp \
-  /usr/include/armadillo_bits/newarp_GenEigsSolver_bones.hpp \
-  /usr/include/armadillo_bits/newarp_SymEigsSolver_bones.hpp \
-  /usr/include/armadillo_bits/newarp_TridiagEigen_bones.hpp \
-  /usr/include/armadillo_bits/newarp_UpperHessenbergEigen_bones.hpp \
-  /usr/include/armadillo_bits/newarp_UpperHessenbergQR_bones.hpp \
-  /usr/include/armadillo_bits/debug.hpp \
-  /usr/include/armadillo_bits/memory.hpp \
-  /usr/include/armadillo_bits/arma_cmath.hpp \
-  /usr/include/armadillo_bits/unwrap.hpp \
-  /usr/include/armadillo_bits/unwrap_cube.hpp \
-  /usr/include/armadillo_bits/unwrap_spmat.hpp \
-  /usr/include/armadillo_bits/Proxy.hpp \
-  /usr/include/armadillo_bits/ProxyCube.hpp \
-  /usr/include/armadillo_bits/SpProxy.hpp \
-  /usr/include/armadillo_bits/diagmat_proxy.hpp \
-  /usr/include/armadillo_bits/strip.hpp \
-  /usr/include/armadillo_bits/Op_meat.hpp \
-  /usr/include/armadillo_bits/OpCube_meat.hpp \
-  /usr/include/armadillo_bits/SpOp_meat.hpp \
-  /usr/include/armadillo_bits/mtOp_meat.hpp \
-  /usr/include/armadillo_bits/mtOpCube_meat.hpp \
-  /usr/include/armadillo_bits/mtSpOp_meat.hpp \
-  /usr/include/armadillo_bits/Glue_meat.hpp \
-  /usr/include/armadillo_bits/GlueCube_meat.hpp \
-  /usr/include/armadillo_bits/SpGlue_meat.hpp \
-  /usr/include/armadillo_bits/eop_aux.hpp \
-  /usr/include/armadillo_bits/eOp_meat.hpp \
-  /usr/include/armadillo_bits/eOpCube_meat.hpp \
-  /usr/include/armadillo_bits/eGlue_meat.hpp \
-  /usr/include/armadillo_bits/eGlueCube_meat.hpp \
-  /usr/include/armadillo_bits/mtGlue_meat.hpp \
-  /usr/include/armadillo_bits/mtGlueCube_meat.hpp \
-  /usr/include/armadillo_bits/Base_meat.hpp \
-  /usr/include/armadillo_bits/BaseCube_meat.hpp \
-  /usr/include/armadillo_bits/SpBase_meat.hpp \
-  /usr/include/armadillo_bits/Gen_meat.hpp \
-  /usr/include/armadillo_bits/GenCube_meat.hpp \
-  /usr/include/armadillo_bits/arma_ostream_bones.hpp \
-  /usr/include/armadillo_bits/arma_ostream_meat.hpp \
-  /usr/include/armadillo_bits/fn_n_unique.hpp \
-  /usr/include/armadillo_bits/operator_plus.hpp \
-  /usr/include/armadillo_bits/operator_minus.hpp \
-  /usr/include/armadillo_bits/operator_times.hpp \
-  /usr/include/armadillo_bits/operator_schur.hpp \
-  /usr/include/armadillo_bits/operator_div.hpp \
-  /usr/include/armadillo_bits/operator_relational.hpp \
-  /usr/include/armadillo_bits/operator_cube_plus.hpp \
-  /usr/include/armadillo_bits/operator_cube_minus.hpp \
-  /usr/include/armadillo_bits/operator_cube_times.hpp \
-  /usr/include/armadillo_bits/operator_cube_schur.hpp \
-  /usr/include/armadillo_bits/operator_cube_div.hpp \
-  /usr/include/armadillo_bits/operator_cube_relational.hpp \
-  /usr/include/armadillo_bits/operator_ostream.hpp \
-  /usr/include/armadillo_bits/fn_conv_to.hpp \
-  /usr/include/armadillo_bits/fn_max.hpp \
-  /usr/include/armadillo_bits/fn_min.hpp \
-  /usr/include/armadillo_bits/fn_index_max.hpp \
-  /usr/include/armadillo_bits/fn_index_min.hpp \
-  /usr/include/armadillo_bits/fn_accu.hpp \
-  /usr/include/armadillo_bits/fn_sum.hpp \
-  /usr/include/armadillo_bits/fn_diagmat.hpp \
-  /usr/include/armadillo_bits/fn_diagvec.hpp \
-  /usr/include/armadillo_bits/fn_inv.hpp \
-  /usr/include/armadillo_bits/fn_trace.hpp \
-  /usr/include/armadillo_bits/fn_trans.hpp \
-  /usr/include/armadillo_bits/fn_det.hpp \
-  /usr/include/armadillo_bits/fn_log_det.hpp \
-  /usr/include/armadillo_bits/fn_eig_gen.hpp \
-  /usr/include/armadillo_bits/fn_eig_sym.hpp \
-  /usr/include/armadillo_bits/fn_eig_pair.hpp \
-  /usr/include/armadillo_bits/fn_lu.hpp \
-  /usr/include/armadillo_bits/fn_zeros.hpp \
-  /usr/include/armadillo_bits/fn_ones.hpp \
-  /usr/include/armadillo_bits/fn_eye.hpp \
-  /usr/include/armadillo_bits/fn_misc.hpp \
-  /usr/include/armadillo_bits/fn_orth_null.hpp \
-  /usr/include/armadillo_bits/fn_regspace.hpp \
-  /usr/include/armadillo_bits/fn_find.hpp \
-  /usr/include/armadillo_bits/fn_find_unique.hpp \
-  /usr/include/armadillo_bits/fn_elem.hpp \
-  /usr/include/armadillo_bits/fn_approx_equal.hpp \
-  /usr/include/armadillo_bits/fn_norm.hpp \
-  /usr/include/armadillo_bits/fn_dot.hpp \
-  /usr/include/armadillo_bits/fn_randu.hpp \
-  /usr/include/armadillo_bits/fn_randn.hpp \
-  /usr/include/armadillo_bits/fn_trig.hpp \
-  /usr/include/armadillo_bits/fn_mean.hpp \
-  /usr/include/armadillo_bits/fn_median.hpp \
-  /usr/include/armadillo_bits/fn_stddev.hpp \
-  /usr/include/armadillo_bits/fn_var.hpp \
-  /usr/include/armadillo_bits/fn_sort.hpp \
-  /usr/include/armadillo_bits/fn_sort_index.hpp \
-  /usr/include/armadillo_bits/fn_strans.hpp \
-  /usr/include/armadillo_bits/fn_chol.hpp \
-  /usr/include/armadillo_bits/fn_qr.hpp \
-  /usr/include/armadillo_bits/fn_svd.hpp \
-  /usr/include/armadillo_bits/fn_solve.hpp \
-  /usr/include/armadillo_bits/fn_repmat.hpp \
-  /usr/include/armadillo_bits/fn_reshape.hpp \
-  /usr/include/armadillo_bits/fn_vectorise.hpp \
-  /usr/include/armadillo_bits/fn_resize.hpp \
-  /usr/include/armadillo_bits/fn_cov.hpp \
-  /usr/include/armadillo_bits/fn_cor.hpp \
-  /usr/include/armadillo_bits/fn_shift.hpp \
-  /usr/include/armadillo_bits/fn_shuffle.hpp \
-  /usr/include/armadillo_bits/fn_prod.hpp \
-  /usr/include/armadillo_bits/fn_eps.hpp \
-  /usr/include/armadillo_bits/fn_pinv.hpp \
-  /usr/include/armadillo_bits/fn_rank.hpp \
-  /usr/include/armadillo_bits/fn_kron.hpp \
-  /usr/include/armadillo_bits/fn_flip.hpp \
-  /usr/include/armadillo_bits/fn_as_scalar.hpp \
-  /usr/include/armadillo_bits/fn_princomp.hpp \
-  /usr/include/armadillo_bits/fn_cross.hpp \
-  /usr/include/armadillo_bits/fn_join.hpp \
-  /usr/include/armadillo_bits/fn_conv.hpp \
-  /usr/include/armadillo_bits/fn_trunc_exp.hpp \
-  /usr/include/armadillo_bits/fn_trunc_log.hpp \
-  /usr/include/armadillo_bits/fn_toeplitz.hpp \
-  /usr/include/armadillo_bits/fn_trimat.hpp \
-  /usr/include/armadillo_bits/fn_cumsum.hpp \
-  /usr/include/armadillo_bits/fn_cumprod.hpp \
-  /usr/include/armadillo_bits/fn_symmat.hpp \
-  /usr/include/armadillo_bits/fn_syl_lyap.hpp \
-  /usr/include/armadillo_bits/fn_hist.hpp \
-  /usr/include/armadillo_bits/fn_histc.hpp \
-  /usr/include/armadillo_bits/fn_unique.hpp \
-  /usr/include/armadillo_bits/fn_fft.hpp \
-  /usr/include/armadillo_bits/fn_fft2.hpp \
-  /usr/include/armadillo_bits/fn_any.hpp \
-  /usr/include/armadillo_bits/fn_all.hpp \
-  /usr/include/armadillo_bits/fn_size.hpp \
-  /usr/include/armadillo_bits/fn_numel.hpp \
-  /usr/include/armadillo_bits/fn_inplace_strans.hpp \
-  /usr/include/armadillo_bits/fn_inplace_trans.hpp \
-  /usr/include/armadillo_bits/fn_randi.hpp \
-  /usr/include/armadillo_bits/fn_randg.hpp \
-  /usr/include/armadillo_bits/fn_cond.hpp \
-  /usr/include/armadillo_bits/fn_normalise.hpp \
-  /usr/include/armadillo_bits/fn_clamp.hpp \
-  /usr/include/armadillo_bits/fn_expmat.hpp \
-  /usr/include/armadillo_bits/fn_nonzeros.hpp \
-  /usr/include/armadillo_bits/fn_interp1.hpp \
-  /usr/include/armadillo_bits/fn_qz.hpp \
-  /usr/include/armadillo_bits/fn_diff.hpp \
-  /usr/include/armadillo_bits/fn_schur.hpp \
-  /usr/include/armadillo_bits/fn_kmeans.hpp \
-  /usr/include/armadillo_bits/fn_sqrtmat.hpp \
-  /usr/include/armadillo_bits/fn_logmat.hpp \
-  /usr/include/armadillo_bits/fn_trapz.hpp \
-  /usr/include/armadillo_bits/fn_range.hpp \
-  /usr/include/armadillo_bits/fn_polyfit.hpp \
-  /usr/include/armadillo_bits/fn_polyval.hpp \
-  /usr/include/armadillo_bits/fn_intersect.hpp \
-  /usr/include/armadillo_bits/fn_normpdf.hpp \
-  /usr/include/armadillo_bits/fn_normcdf.hpp \
-  /usr/include/armadillo_bits/fn_mvnrnd.hpp \
-  /usr/include/armadillo_bits/fn_chi2rnd.hpp \
-  /usr/include/armadillo_bits/fn_wishrnd.hpp \
-  /usr/include/armadillo_bits/fn_speye.hpp \
-  /usr/include/armadillo_bits/fn_spones.hpp \
-  /usr/include/armadillo_bits/fn_sprandn.hpp \
-  /usr/include/armadillo_bits/fn_sprandu.hpp \
-  /usr/include/armadillo_bits/fn_eigs_sym.hpp \
-  /usr/include/armadillo_bits/fn_eigs_gen.hpp \
-  /usr/include/armadillo_bits/fn_spsolve.hpp \
-  /usr/include/armadillo_bits/fn_svds.hpp \
-  /usr/include/armadillo_bits/hdf5_misc.hpp \
-  /usr/include/armadillo_bits/fft_engine.hpp \
-  /usr/include/armadillo_bits/band_helper.hpp \
-  /usr/include/armadillo_bits/mul_gemv.hpp \
-  /usr/include/armadillo_bits/mul_gemm.hpp \
-  /usr/include/armadillo_bits/mul_gemm_mixed.hpp \
-  /usr/include/armadillo_bits/mul_syrk.hpp \
-  /usr/include/armadillo_bits/mul_herk.hpp \
-  /usr/include/armadillo_bits/eop_core_meat.hpp \
-  /usr/include/armadillo_bits/eglue_core_meat.hpp \
-  /usr/include/armadillo_bits/cond_rel_meat.hpp \
-  /usr/include/armadillo_bits/arrayops_meat.hpp \
-  /usr/include/armadillo_bits/podarray_meat.hpp \
-  /usr/include/armadillo_bits/auxlib_meat.hpp \
-  /usr/include/armadillo_bits/sp_auxlib_meat.hpp \
-  /usr/include/armadillo_bits/injector_meat.hpp \
-  /usr/include/armadillo_bits/Mat_meat.hpp \
-  /usr/include/armadillo_bits/Col_meat.hpp \
-  /usr/include/armadillo_bits/Row_meat.hpp \
-  /usr/include/armadillo_bits/Cube_meat.hpp \
-  /usr/include/armadillo_bits/xvec_htrans_meat.hpp \
-  /usr/include/armadillo_bits/xtrans_mat_meat.hpp \
-  /usr/include/armadillo_bits/SizeMat_meat.hpp \
-  /usr/include/armadillo_bits/SizeCube_meat.hpp \
-  /usr/include/armadillo_bits/field_meat.hpp \
-  /usr/include/armadillo_bits/subview_meat.hpp \
-  /usr/include/armadillo_bits/subview_elem1_meat.hpp \
-  /usr/include/armadillo_bits/subview_elem2_meat.hpp \
-  /usr/include/armadillo_bits/subview_field_meat.hpp \
-  /usr/include/armadillo_bits/subview_cube_meat.hpp \
-  /usr/include/armadillo_bits/diagview_meat.hpp \
-  /usr/include/armadillo_bits/subview_each_meat.hpp \
-  /usr/include/armadillo_bits/subview_cube_each_meat.hpp \
-  /usr/include/armadillo_bits/SpValProxy_meat.hpp \
-  /usr/include/armadillo_bits/SpMat_meat.hpp \
-  /usr/include/armadillo_bits/SpMat_iterators_meat.hpp \
-  /usr/include/armadillo_bits/SpCol_meat.hpp \
-  /usr/include/armadillo_bits/SpRow_meat.hpp \
-  /usr/include/armadillo_bits/SpSubview_meat.hpp \
-  /usr/include/armadillo_bits/SpSubview_iterators_meat.hpp \
-  /usr/include/armadillo_bits/spdiagview_meat.hpp \
-  /usr/include/armadillo_bits/MapMat_meat.hpp \
-  /usr/include/armadillo_bits/diskio_meat.hpp \
-  /usr/include/armadillo_bits/wall_clock_meat.hpp \
-  /usr/include/armadillo_bits/running_stat_meat.hpp \
-  /usr/include/armadillo_bits/running_stat_vec_meat.hpp \
-  /usr/include/armadillo_bits/op_diagmat_meat.hpp \
-  /usr/include/armadillo_bits/op_diagvec_meat.hpp \
-  /usr/include/armadillo_bits/op_dot_meat.hpp \
-  /usr/include/armadillo_bits/op_inv_meat.hpp \
-  /usr/include/armadillo_bits/op_htrans_meat.hpp \
-  /usr/include/armadillo_bits/op_max_meat.hpp \
-  /usr/include/armadillo_bits/op_index_max_meat.hpp \
-  /usr/include/armadillo_bits/op_index_min_meat.hpp \
-  /usr/include/armadillo_bits/op_min_meat.hpp \
-  /usr/include/armadillo_bits/op_mean_meat.hpp \
-  /usr/include/armadillo_bits/op_median_meat.hpp \
-  /usr/include/armadillo_bits/op_sort_meat.hpp \
-  /usr/include/armadillo_bits/op_sort_index_meat.hpp \
-  /usr/include/armadillo_bits/op_sum_meat.hpp \
-  /usr/include/armadillo_bits/op_stddev_meat.hpp \
-  /usr/include/armadillo_bits/op_strans_meat.hpp \
-  /usr/include/armadillo_bits/op_var_meat.hpp \
-  /usr/include/armadillo_bits/op_repmat_meat.hpp \
-  /usr/include/armadillo_bits/op_reshape_meat.hpp \
-  /usr/include/armadillo_bits/op_vectorise_meat.hpp \
-  /usr/include/armadillo_bits/op_resize_meat.hpp \
-  /usr/include/armadillo_bits/op_cov_meat.hpp \
-  /usr/include/armadillo_bits/op_cor_meat.hpp \
-  /usr/include/armadillo_bits/op_shift_meat.hpp \
-  /usr/include/armadillo_bits/op_shuffle_meat.hpp \
-  /usr/include/armadillo_bits/op_prod_meat.hpp \
-  /usr/include/armadillo_bits/op_pinv_meat.hpp \
-  /usr/include/armadillo_bits/op_dotext_meat.hpp \
-  /usr/include/armadillo_bits/op_flip_meat.hpp \
-  /usr/include/armadillo_bits/op_princomp_meat.hpp \
-  /usr/include/armadillo_bits/op_misc_meat.hpp \
-  /usr/include/armadillo_bits/op_orth_null_meat.hpp \
-  /usr/include/armadillo_bits/op_relational_meat.hpp \
-  /usr/include/armadillo_bits/op_find_meat.hpp \
-  /usr/include/armadillo_bits/op_find_unique_meat.hpp \
-  /usr/include/armadillo_bits/op_chol_meat.hpp \
-  /usr/include/armadillo_bits/op_cx_scalar_meat.hpp \
-  /usr/include/armadillo_bits/op_trimat_meat.hpp \
-  /usr/include/armadillo_bits/op_cumsum_meat.hpp \
-  /usr/include/armadillo_bits/op_cumprod_meat.hpp \
-  /usr/include/armadillo_bits/op_symmat_meat.hpp \
-  /usr/include/armadillo_bits/op_hist_meat.hpp \
-  /usr/include/armadillo_bits/op_unique_meat.hpp \
-  /usr/include/armadillo_bits/op_toeplitz_meat.hpp \
-  /usr/include/armadillo_bits/op_fft_meat.hpp \
-  /usr/include/armadillo_bits/op_any_meat.hpp \
-  /usr/include/armadillo_bits/op_all_meat.hpp \
-  /usr/include/armadillo_bits/op_normalise_meat.hpp \
-  /usr/include/armadillo_bits/op_clamp_meat.hpp \
-  /usr/include/armadillo_bits/op_expmat_meat.hpp \
-  /usr/include/armadillo_bits/op_nonzeros_meat.hpp \
-  /usr/include/armadillo_bits/op_diff_meat.hpp \
-  /usr/include/armadillo_bits/op_norm_meat.hpp \
-  /usr/include/armadillo_bits/op_sqrtmat_meat.hpp \
-  /usr/include/armadillo_bits/op_logmat_meat.hpp \
-  /usr/include/armadillo_bits/op_range_meat.hpp \
-  /usr/include/armadillo_bits/op_chi2rnd_meat.hpp \
-  /usr/include/armadillo_bits/op_wishrnd_meat.hpp \
-  /usr/include/armadillo_bits/glue_times_meat.hpp \
-  /usr/include/armadillo_bits/glue_mixed_meat.hpp \
-  /usr/include/armadillo_bits/glue_cov_meat.hpp \
-  /usr/include/armadillo_bits/glue_cor_meat.hpp \
-  /usr/include/armadillo_bits/glue_kron_meat.hpp \
-  /usr/include/armadillo_bits/glue_cross_meat.hpp \
-  /usr/include/armadillo_bits/glue_join_meat.hpp \
-  /usr/include/armadillo_bits/glue_relational_meat.hpp \
-  /usr/include/armadillo_bits/glue_solve_meat.hpp \
-  /usr/include/armadillo_bits/glue_conv_meat.hpp \
-  /usr/include/armadillo_bits/glue_toeplitz_meat.hpp \
-  /usr/include/armadillo_bits/glue_hist_meat.hpp \
-  /usr/include/armadillo_bits/glue_histc_meat.hpp \
-  /usr/include/armadillo_bits/glue_max_meat.hpp \
-  /usr/include/armadillo_bits/glue_min_meat.hpp \
-  /usr/include/armadillo_bits/glue_trapz_meat.hpp \
-  /usr/include/armadillo_bits/glue_atan2_meat.hpp \
-  /usr/include/armadillo_bits/glue_hypot_meat.hpp \
-  /usr/include/armadillo_bits/glue_polyfit_meat.hpp \
-  /usr/include/armadillo_bits/glue_polyval_meat.hpp \
-  /usr/include/armadillo_bits/glue_intersect_meat.hpp \
-  /usr/include/armadillo_bits/glue_affmul_meat.hpp \
-  /usr/include/armadillo_bits/glue_mvnrnd_meat.hpp \
-  /usr/include/armadillo_bits/gmm_misc_meat.hpp \
-  /usr/include/armadillo_bits/gmm_diag_meat.hpp \
-  /usr/include/armadillo_bits/gmm_full_meat.hpp \
-  /usr/include/armadillo_bits/spop_max_meat.hpp \
-  /usr/include/armadillo_bits/spop_min_meat.hpp \
-  /usr/include/armadillo_bits/spop_sum_meat.hpp \
-  /usr/include/armadillo_bits/spop_strans_meat.hpp \
-  /usr/include/armadillo_bits/spop_htrans_meat.hpp \
-  /usr/include/armadillo_bits/spop_misc_meat.hpp \
-  /usr/include/armadillo_bits/spop_diagmat_meat.hpp \
-  /usr/include/armadillo_bits/spop_mean_meat.hpp \
-  /usr/include/armadillo_bits/spop_var_meat.hpp \
-  /usr/include/armadillo_bits/spop_trimat_meat.hpp \
-  /usr/include/armadillo_bits/spop_symmat_meat.hpp \
-  /usr/include/armadillo_bits/spglue_plus_meat.hpp \
-  /usr/include/armadillo_bits/spglue_minus_meat.hpp \
-  /usr/include/armadillo_bits/spglue_times_meat.hpp \
-  /usr/include/armadillo_bits/spglue_join_meat.hpp \
-  /usr/include/armadillo_bits/spglue_kron_meat.hpp \
-  /usr/include/armadillo_bits/newarp_cx_attrib.hpp \
-  /usr/include/armadillo_bits/newarp_SortEigenvalue.hpp \
-  /usr/include/armadillo_bits/newarp_DenseGenMatProd_meat.hpp \
-  /usr/include/armadillo_bits/newarp_SparseGenMatProd_meat.hpp \
-  /usr/include/armadillo_bits/newarp_DoubleShiftQR_meat.hpp \
-  /usr/include/armadillo_bits/newarp_GenEigsSolver_meat.hpp \
-  /usr/include/armadillo_bits/newarp_SymEigsSolver_meat.hpp \
-  /usr/include/armadillo_bits/newarp_TridiagEigen_meat.hpp \
-  /usr/include/armadillo_bits/newarp_UpperHessenbergEigen_meat.hpp \
-  /usr/include/armadillo_bits/newarp_UpperHessenbergQR_meat.hpp \
-  /usr/include/armadillo_bits/compiler_setup_post.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/include_atlas.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/include_hdf5.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/include_superlu.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_forward.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_static_check.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/typedef_elem.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/typedef_elem_check.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/typedef_mat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_str.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_version.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_config.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/traits.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/promote_type.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/upgrade_val.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/restrictors.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/access.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/span.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/distr_param.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/constants.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/constants_compat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_rng_cxx98.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_rng_cxx11.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_rng.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Base_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/BaseCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpBase_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_blas.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_lapack.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_atlas.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_arpack.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_superlu.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_hdf5.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_blas.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_lapack.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_atlas.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_arpack.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_superlu.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/cond_rel_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arrayops_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/podarray_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/auxlib_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/sp_auxlib_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/injector_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Mat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Col_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Row_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Cube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/xvec_htrans_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/xtrans_mat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SizeMat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SizeCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpValProxy_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpMat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpCol_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpRow_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpSubview_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spdiagview_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/typedef_mat_fixed.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/field_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_elem1_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_elem2_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_field_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_cube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diagview_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_each_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_cube_each_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diskio_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wall_clock_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/running_stat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/running_stat_vec_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Op_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/OpCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpOp_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eOp_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eOpCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtOp_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtOpCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtSpOp_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Glue_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlue_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtGlue_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpGlue_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/GlueCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlueCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtGlueCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eop_core_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eglue_core_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Gen_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/GenCube_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diagmat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diagvec_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_dot_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_inv_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_htrans_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_max_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_min_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_mean_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_median_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sort_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sort_index_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sum_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_stddev_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_strans_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_var_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_repmat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_reshape_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_vectorise_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_resize_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cov_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cor_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_shuffle_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_prod_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_pinv_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_dotext_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_flip_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_princomp_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_misc_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_relational_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_find_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_find_unique_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_chol_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cx_scalar_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_trimat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cumsum_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cumprod_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_symmat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_hist_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_unique_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_toeplitz_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_fft_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_any_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_all_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_normalise_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_clamp_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_expmat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_nonzeros_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diff_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_norm_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_times_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_mixed_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cov_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cor_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_kron_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cross_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_join_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_relational_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_solve_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_conv_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_toeplitz_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_hist_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_histc_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_max_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_min_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/gmm_misc_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/gmm_diag_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_max_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_min_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_sum_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_strans_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_htrans_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_misc_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_diagmat_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_mean_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_var_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_plus_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_minus_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_times_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_join_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/debug.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/memory.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_cmath.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/unwrap.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/unwrap_cube.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/unwrap_spmat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Proxy.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/ProxyCube.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpProxy.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diagmat_proxy.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/strip.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Op_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/OpCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpOp_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtOp_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtOpCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtSpOp_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Glue_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/GlueCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpGlue_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eop_aux.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eOp_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eOpCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlue_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlueCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtGlue_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtGlueCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Base_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/BaseCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpBase_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Gen_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/GenCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_ostream_bones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_ostream_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_n_unique.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_plus.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_minus.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_times.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_schur.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_div.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_relational.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_plus.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_minus.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_times.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_schur.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_div.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_relational.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_ostream.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_conv_to.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_min.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_max.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_accu.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sum.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_diagmat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_diagvec.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_inv.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trace.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trans.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_det.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_log_det.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eig_gen.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eig_sym.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eig_pair.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_lu.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_zeros.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_ones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eye.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_misc.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_find.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_find_unique.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_elem.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_norm.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_dot.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_randu.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_randn.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trig.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_mean.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_median.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_stddev.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_var.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sort.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sort_index.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_strans.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_chol.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_qr.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_svd.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_solve.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_repmat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_reshape.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_vectorise.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_resize.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cov.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cor.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_shuffle.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_prod.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eps.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_pinv.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_rank.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_kron.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_flip.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_as_scalar.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_princomp.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cross.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_join.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_conv.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trunc_exp.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trunc_log.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_toeplitz.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trimat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cumsum.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cumprod.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_symmat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_syl_lyap.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_hist.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_histc.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_unique.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_fft.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_fft2.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_any.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_all.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_size.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_numel.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_inplace_strans.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_inplace_trans.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_randi.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_randg.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cond.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_normalise.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_clamp.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_expmat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_nonzeros.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_interp1.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_qz.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_diff.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_schur.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_kmeans.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_speye.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_spones.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sprandn.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sprandu.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eigs_sym.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eigs_gen.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_spsolve.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_svds.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/hdf5_misc.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fft_engine.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_gemv.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_gemm.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_gemm_mixed.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_syrk.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_herk.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eop_core_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eglue_core_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/cond_rel_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arrayops_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/podarray_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/auxlib_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/sp_auxlib_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/injector_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Mat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Col_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Row_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Cube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/xvec_htrans_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/xtrans_mat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SizeMat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SizeCube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/field_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_elem1_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_elem2_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_field_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_cube_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diagview_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_each_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_cube_each_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpValProxy_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpMat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpMat_iterators_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpCol_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpRow_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpSubview_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpSubview_iterators_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spdiagview_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diskio_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wall_clock_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/running_stat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/running_stat_vec_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diagmat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diagvec_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_dot_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_inv_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_htrans_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_max_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_min_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_mean_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_median_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sort_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sort_index_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sum_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_stddev_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_strans_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_var_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_repmat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_reshape_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_vectorise_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_resize_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cov_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cor_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_shuffle_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_prod_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_pinv_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_dotext_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_flip_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_princomp_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_misc_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_relational_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_find_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_find_unique_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_chol_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cx_scalar_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_trimat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cumsum_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cumprod_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_symmat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_hist_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_unique_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_toeplitz_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_fft_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_any_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_all_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_normalise_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_clamp_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_expmat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_nonzeros_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diff_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_norm_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_times_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_mixed_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cov_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cor_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_kron_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cross_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_join_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_relational_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_solve_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_conv_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_toeplitz_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_hist_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_histc_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_max_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_min_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/gmm_misc_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/gmm_diag_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_max_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_min_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_sum_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_strans_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_htrans_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_misc_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_diagmat_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_mean_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_var_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_plus_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_minus_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_times_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_join_meat.hpp \
+  /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/compiler_setup_post.hpp \
   /home/felipefr/github/Piola/src/data.hpp \
   /home/felipefr/github/Piola/src/simulSettings.hpp \
   /home/felipefr/github/Piola/fortranCode/include/solvergp.h
 
 
-/usr/include/armadillo_bits/compiler_setup_post.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_join_meat.hpp:
 
-/usr/include/armadillo_bits/newarp_TridiagEigen_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_minus_meat.hpp:
 
-/usr/include/armadillo_bits/newarp_DenseGenMatProd_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_mean_meat.hpp:
 
-/usr/include/armadillo_bits/spglue_times_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_misc_meat.hpp:
 
-/usr/include/armadillo_bits/spglue_minus_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_min_meat.hpp:
 
-/usr/include/armadillo_bits/spop_mean_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/gmm_misc_meat.hpp:
 
-/usr/include/armadillo_bits/spop_misc_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_max_meat.hpp:
 
-/usr/include/armadillo_bits/spop_htrans_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_histc_meat.hpp:
 
-/usr/include/armadillo_bits/spop_sum_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_hist_meat.hpp:
 
-/usr/include/armadillo_bits/spop_min_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_relational_meat.hpp:
 
-/usr/include/armadillo_bits/glue_mvnrnd_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_join_meat.hpp:
 
-/usr/include/armadillo_bits/glue_affmul_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_kron_meat.hpp:
 
-/usr/include/armadillo_bits/glue_hypot_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_norm_meat.hpp:
 
-/usr/include/armadillo_bits/glue_min_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_expmat_meat.hpp:
 
-/usr/include/armadillo_bits/glue_histc_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_all_meat.hpp:
 
-/usr/include/armadillo_bits/glue_toeplitz_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_conv_meat.hpp:
 
-/usr/include/armadillo_bits/glue_relational_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_toeplitz_meat.hpp:
 
-/usr/include/armadillo_bits/glue_join_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cumprod_meat.hpp:
 
-/usr/include/armadillo_bits/glue_cor_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cumsum_meat.hpp:
 
-/usr/include/armadillo_bits/glue_cov_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cx_scalar_meat.hpp:
 
-/usr/include/armadillo_bits/glue_kron_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_princomp_meat.hpp:
 
-/usr/include/armadillo_bits/glue_mixed_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_pinv_meat.hpp:
 
-/usr/include/armadillo_bits/glue_times_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_prod_meat.hpp:
 
-/usr/include/armadillo_bits/op_range_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_resize_meat.hpp:
 
-/usr/include/armadillo_bits/op_sqrtmat_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_vectorise_meat.hpp:
 
-/usr/include/armadillo_bits/op_nonzeros_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_reshape_meat.hpp:
 
-/usr/include/armadillo_bits/glue_cross_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_var_meat.hpp:
 
-/usr/include/armadillo_bits/op_normalise_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sort_index_meat.hpp:
 
-/usr/include/armadillo_bits/op_any_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sort_meat.hpp:
 
-/usr/include/armadillo_bits/op_unique_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_mean_meat.hpp:
 
-/usr/include/armadillo_bits/op_hist_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_min_meat.hpp:
 
-/usr/include/armadillo_bits/op_symmat_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_max_meat.hpp:
 
-/usr/include/armadillo_bits/op_find_unique_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_htrans_meat.hpp:
 
-/usr/include/armadillo_bits/gmm_diag_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_dot_meat.hpp:
 
-/usr/include/armadillo_bits/op_princomp_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpSubview_iterators_meat.hpp:
 
-/usr/include/armadillo_bits/op_flip_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpRow_meat.hpp:
 
-/usr/include/armadillo_bits/op_dotext_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_shuffle_meat.hpp:
 
-/usr/include/armadillo_bits/op_pinv_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpCol_meat.hpp:
 
-/usr/include/armadillo_bits/op_vectorise_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpMat_meat.hpp:
 
-/usr/include/armadillo_bits/op_reshape_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_each_meat.hpp:
 
-/usr/include/armadillo_bits/op_sort_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diagview_meat.hpp:
 
-/usr/include/armadillo_bits/op_median_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_inv_meat.hpp:
 
-/usr/include/armadillo_bits/op_min_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_cube_meat.hpp:
 
-/usr/include/armadillo_bits/op_dot_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_elem2_meat.hpp:
 
-/usr/include/armadillo_bits/glue_solve_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_meat.hpp:
 
-/usr/include/armadillo_bits/op_diagvec_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SizeCube_meat.hpp:
 
-/usr/include/armadillo_bits/op_sort_index_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SizeMat_meat.hpp:
 
-/usr/include/armadillo_bits/wall_clock_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpSubview_meat.hpp:
 
-/usr/include/armadillo_bits/spdiagview_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/injector_meat.hpp:
 
-/usr/include/armadillo_bits/SpSubview_iterators_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpMat_iterators_meat.hpp:
 
-/usr/include/armadillo_bits/op_orth_null_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/sp_auxlib_meat.hpp:
 
-/usr/include/armadillo_bits/SpCol_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/auxlib_meat.hpp:
 
-/usr/include/armadillo_bits/subview_each_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/podarray_meat.hpp:
 
-/usr/include/armadillo_bits/diagview_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cross_meat.hpp:
 
-/usr/include/armadillo_bits/subview_elem2_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_gemm_mixed.hpp:
 
-/usr/include/armadillo_bits/field_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_max_meat.hpp:
 
-/usr/include/armadillo_bits/SizeCube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_gemm.hpp:
 
-/usr/include/armadillo_bits/op_var_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fft_engine.hpp:
 
-/usr/include/armadillo_bits/xtrans_mat_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_svds.hpp:
 
-/usr/include/armadillo_bits/injector_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_spsolve.hpp:
 
-/usr/include/armadillo_bits/podarray_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eigs_gen.hpp:
 
-/usr/include/armadillo_bits/eglue_core_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eigs_sym.hpp:
 
-/usr/include/armadillo_bits/eop_core_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sprandn.hpp:
 
-/usr/include/armadillo_bits/mul_gemm_mixed.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_field_meat.hpp:
 
-/usr/include/armadillo_bits/mul_gemm.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_kmeans.hpp:
 
-/usr/include/armadillo_bits/fft_engine.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_qz.hpp:
 
-/usr/include/armadillo_bits/hdf5_misc.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_misc_meat.hpp:
 
-/usr/include/armadillo_bits/fn_svds.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_interp1.hpp:
 
-/usr/include/armadillo_bits/fn_eigs_gen.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_expmat.hpp:
 
-/usr/include/armadillo_bits/spglue_join_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_clamp.hpp:
 
-/usr/include/armadillo_bits/fn_eigs_sym.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_diagmat_meat.hpp:
 
-/usr/include/armadillo_bits/fn_sprandu.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_fft_meat.hpp:
 
-/usr/include/armadillo_bits/fn_wishrnd.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/xvec_htrans_meat.hpp:
 
-/usr/include/armadillo_bits/fn_mvnrnd.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_normalise.hpp:
 
-/usr/include/armadillo_bits/fn_intersect.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_randg.hpp:
 
-/usr/include/armadillo_bits/fn_polyval.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_randi.hpp:
 
-/usr/include/armadillo_bits/fn_kmeans.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_inplace_trans.hpp:
 
-/usr/include/armadillo_bits/fn_qz.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_inplace_strans.hpp:
 
-/usr/include/armadillo_bits/fn_nonzeros.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_any.hpp:
 
-/usr/include/armadillo_bits/fn_expmat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_gemv.hpp:
 
-/usr/include/armadillo_bits/fn_clamp.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_fft.hpp:
 
-/usr/include/armadillo_bits/fn_randg.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_histc.hpp:
 
-/usr/include/armadillo_bits/op_resize_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_syl_lyap.hpp:
 
-/usr/include/armadillo_bits/fn_inplace_strans.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cumsum.hpp:
 
-/usr/include/armadillo_bits/fn_size.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trunc_log.hpp:
 
-/usr/include/armadillo_bits/fn_all.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_join.hpp:
 
-/usr/include/armadillo_bits/fn_any.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cross.hpp:
 
-/usr/include/armadillo_bits/fn_fft2.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_pinv.hpp:
 
-/usr/include/armadillo_bits/fn_fft.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eps.hpp:
 
-/usr/include/armadillo_bits/fn_histc.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_prod.hpp:
 
-/usr/include/armadillo_bits/fn_syl_lyap.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_mixed_meat.hpp:
 
-/usr/include/armadillo_bits/fn_symmat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cor.hpp:
 
-/usr/include/armadillo_bits/op_norm_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cov.hpp:
 
-/usr/include/armadillo_bits/fn_cumprod.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_spones.hpp:
 
-/usr/include/armadillo_bits/fn_cumsum.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_reshape.hpp:
 
-/usr/include/armadillo_bits/gmm_misc_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_svd.hpp:
 
-/usr/include/armadillo_bits/fn_toeplitz.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_diff.hpp:
 
-/usr/include/armadillo_bits/fn_trunc_exp.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_qr.hpp:
 
-/usr/include/armadillo_bits/fn_conv.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_chol.hpp:
 
-/usr/include/armadillo_bits/fn_join.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_strans.hpp:
 
-/usr/include/armadillo_bits/fn_princomp.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_schur.hpp:
 
-/usr/include/armadillo_bits/fn_as_scalar.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sort_index.hpp:
 
-/usr/include/armadillo_bits/fn_flip.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_stddev.hpp:
 
-/usr/include/armadillo_bits/sp_auxlib_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_numel.hpp:
 
-/usr/include/armadillo_bits/fn_kron.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_randu.hpp:
 
-/usr/include/armadillo_bits/fn_pinv.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_dot.hpp:
 
-/usr/include/armadillo_bits/fn_prod.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_elem.hpp:
 
-/usr/include/armadillo_bits/fn_interp1.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_find_unique.hpp:
 
-/usr/include/armadillo_bits/fn_cov.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_find.hpp:
 
-/usr/include/armadillo_bits/op_shift_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_htrans_meat.hpp:
 
-/usr/include/armadillo_bits/fn_resize.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_misc.hpp:
 
-/usr/include/armadillo_bits/op_mean_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eye.hpp:
 
-/usr/include/armadillo_bits/fn_repmat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sum_meat.hpp:
 
-/usr/include/armadillo_bits/fn_chi2rnd.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_zeros.hpp:
 
-/usr/include/armadillo_bits/fn_rank.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_rank.hpp:
 
-/usr/include/armadillo_bits/fn_sort_index.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_lu.hpp:
 
-/usr/include/armadillo_bits/SpValProxy_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_syrk.hpp:
 
-/usr/include/armadillo_bits/fn_sort.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_det.hpp:
 
-/usr/include/armadillo_bits/fn_stddev.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trans.hpp:
 
-/usr/include/armadillo_bits/fn_median.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trace.hpp:
 
-/usr/include/armadillo_bits/fn_trig.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_relational_meat.hpp:
 
-/usr/include/armadillo_bits/fn_randn.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_diagvec.hpp:
 
-/usr/include/armadillo_bits/fn_randu.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_hist_meat.hpp:
 
-/usr/include/armadillo_bits/fn_norm.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_diagmat.hpp:
 
-/usr/include/armadillo_bits/fn_find_unique.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sum.hpp:
 
-/usr/include/armadillo_bits/fn_orth_null.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_accu.hpp:
 
-/usr/include/armadillo_bits/fn_eye.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_relational.hpp:
 
-/usr/include/armadillo_bits/fn_zeros.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_times.hpp:
 
-/usr/include/armadillo_bits/fn_cor.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_minus.hpp:
 
-/usr/include/armadillo_bits/fn_lu.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_relational.hpp:
 
-/usr/include/armadillo_bits/fn_eig_pair.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_n_unique.hpp:
 
-/usr/include/armadillo_bits/fn_det.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_ostream_meat.hpp:
 
-/usr/include/armadillo_bits/fn_trace.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_vectorise.hpp:
 
-/usr/include/armadillo_bits/fn_inv.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/GenCube_meat.hpp:
 
-/usr/include/armadillo_bits/op_expmat_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Gen_meat.hpp:
 
-/usr/include/armadillo_bits/fn_diagvec.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diskio_meat.hpp:
 
-/usr/include/armadillo_bits/fn_find.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpBase_meat.hpp:
 
-/usr/include/armadillo_bits/fn_diagmat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtGlueCube_meat.hpp:
 
-/usr/include/armadillo_bits/fn_sum.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlueCube_meat.hpp:
 
-/usr/include/armadillo_bits/fn_index_min.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_symmat.hpp:
 
-/usr/include/armadillo_bits/fn_index_max.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eOpCube_meat.hpp:
 
-/usr/include/armadillo_bits/fn_min.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eOp_meat.hpp:
 
-/usr/include/armadillo_bits/op_sum_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eop_aux.hpp:
 
-/usr/include/armadillo_bits/operator_cube_relational.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpGlue_meat.hpp:
 
-/usr/include/armadillo_bits/operator_cube_schur.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Glue_meat.hpp:
 
-/usr/include/armadillo_bits/operator_cube_minus.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtOpCube_meat.hpp:
 
-/usr/include/armadillo_bits/operator_relational.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpOp_meat.hpp:
 
-/usr/include/armadillo_bits/operator_schur.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/OpCube_meat.hpp:
 
-/usr/include/armadillo_bits/arma_ostream_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Op_meat.hpp:
 
-/usr/include/armadillo_bits/arma_ostream_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/strip.hpp:
 
-/usr/include/armadillo_bits/GenCube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diagmat_proxy.hpp:
 
-/usr/include/armadillo_bits/glue_trapz_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/unwrap_spmat.hpp:
 
-/usr/include/armadillo_bits/fn_shift.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/unwrap_cube.hpp:
 
-/usr/include/armadillo_bits/SpBase_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/unwrap.hpp:
 
-/usr/include/armadillo_bits/BaseCube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_cmath.hpp:
 
-/usr/include/armadillo_bits/op_prod_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Row_meat.hpp:
 
-/usr/include/armadillo_bits/eGlueCube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eglue_core_meat.hpp:
 
-/usr/include/armadillo_bits/Cube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/memory.hpp:
 
-/usr/include/armadillo_bits/eGlue_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_join_bones.hpp:
 
-/usr/include/armadillo_bits/fn_normpdf.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cumprod.hpp:
 
-/usr/include/armadillo_bits/eop_aux.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_repmat.hpp:
 
-/usr/include/armadillo_bits/SpGlue_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_times_bones.hpp:
 
-/usr/include/armadillo_bits/GlueCube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_minus_bones.hpp:
 
-/usr/include/armadillo_bits/Glue_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_mean_bones.hpp:
 
-/usr/include/armadillo_bits/SpOp_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wall_clock_meat.hpp:
 
-/usr/include/armadillo_bits/glue_conv_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_diagmat_bones.hpp:
 
-/usr/include/armadillo_bits/OpCube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_misc_bones.hpp:
 
-/usr/include/armadillo_bits/fn_shuffle.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_strans_bones.hpp:
 
-/usr/include/armadillo_bits/fn_var.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_sum_bones.hpp:
 
-/usr/include/armadillo_bits/SpProxy.hpp:
-
-/usr/include/armadillo_bits/unwrap_spmat.hpp:
-
-/usr/include/armadillo_bits/fn_eps.hpp:
-
-/usr/include/armadillo_bits/unwrap_cube.hpp:
-
-/usr/include/armadillo_bits/unwrap.hpp:
-
-/usr/include/armadillo_bits/memory.hpp:
-
-/usr/include/armadillo_bits/newarp_TridiagEigen_bones.hpp:
-
-/usr/include/armadillo_bits/newarp_EigsSelect.hpp:
-
-/usr/include/armadillo_bits/spglue_kron_bones.hpp:
-
-/usr/include/armadillo_bits/spglue_join_bones.hpp:
-
-/usr/include/armadillo_bits/spglue_times_bones.hpp:
-
-/usr/include/armadillo_bits/spglue_plus_bones.hpp:
-
-/usr/include/armadillo_bits/spop_trimat_bones.hpp:
-
-/usr/include/armadillo_bits/fn_numel.hpp:
-
-/usr/include/armadillo_bits/spop_var_bones.hpp:
-
-/usr/include/armadillo_bits/spop_mean_bones.hpp:
-
-/usr/include/armadillo_bits/spop_diagmat_bones.hpp:
-
-/usr/include/armadillo_bits/spop_var_meat.hpp:
-
-/usr/include/armadillo_bits/spop_misc_bones.hpp:
-
-/usr/include/armadillo_bits/spop_min_bones.hpp:
-
-/usr/include/armadillo_bits/gmm_full_bones.hpp:
-
-/usr/include/armadillo_bits/SpMat_iterators_meat.hpp:
-
-/usr/include/armadillo_bits/gmm_diag_bones.hpp:
-
-/usr/include/armadillo_bits/glue_mvnrnd_bones.hpp:
-
-/usr/include/armadillo_bits/glue_polyfit_bones.hpp:
-
-/usr/include/armadillo_bits/arma_cmath.hpp:
-
-/usr/include/armadillo_bits/glue_atan2_bones.hpp:
-
-/usr/include/armadillo_bits/op_cov_meat.hpp:
-
-/usr/include/armadillo_bits/subview_cube_meat.hpp:
-
-/usr/include/armadillo_bits/fn_dot.hpp:
-
-/usr/include/armadillo_bits/glue_trapz_bones.hpp:
-
-/usr/include/armadillo_bits/glue_max_bones.hpp:
-
-/usr/include/armadillo_bits/spglue_kron_meat.hpp:
-
-/usr/include/armadillo_bits/mul_gemv.hpp:
-
-/usr/include/armadillo_bits/glue_toeplitz_bones.hpp:
-
-/usr/include/armadillo_bits/glue_cor_bones.hpp:
-
-/usr/include/armadillo_bits/xvec_htrans_meat.hpp:
-
-/usr/include/armadillo_bits/glue_cov_bones.hpp:
-
-/usr/include/armadillo_bits/glue_times_bones.hpp:
-
-/usr/include/armadillo_bits/op_wishrnd_bones.hpp:
-
-/usr/include/armadillo_bits/op_chi2rnd_bones.hpp:
-
-/usr/include/armadillo_bits/op_range_bones.hpp:
-
-/usr/include/armadillo_bits/op_norm_bones.hpp:
-
-/usr/include/armadillo_bits/op_diff_bones.hpp:
-
-/usr/include/armadillo_bits/fn_qr.hpp:
-
-/usr/include/armadillo_bits/fn_accu.hpp:
-
-/usr/include/armadillo_bits/op_nonzeros_bones.hpp:
-
-/usr/include/armadillo_bits/op_relational_meat.hpp:
-
-/usr/include/armadillo_bits/SpRow_meat.hpp:
-
-/usr/include/armadillo_bits/op_expmat_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/xtrans_mat_meat.hpp:
 
 /usr/include/c++/7/cmath:
 
-/usr/include/armadillo_bits/newarp_GenEigsSolver_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_solve.hpp:
 
 /usr/include/c++/7/bits/stl_vector.h:
 
-/usr/include/armadillo_bits/fn_solve.hpp:
-
 /usr/include/c++/7/vector:
-
-/usr/include/armadillo_bits/arma_config.hpp:
-
-/usr/include/armadillo_bits/glue_atan2_meat.hpp:
-
-/usr/include/armadillo_bits/op_trimat_meat.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/basic_file.h:
 
-/usr/include/armadillo_bits/op_index_max_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_var_meat.hpp:
 
-/usr/include/c++/7/bits/uniform_int_dist.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trig.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/cond_rel_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diff_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Cube_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtSpOp_meat.hpp:
 
 /usr/include/c++/7/bits/quoted_string.h:
 
-/usr/include/armadillo_bits/fn_approx_equal.hpp:
-
-/usr/include/armadillo_bits/ProxyCube.hpp:
-
 /usr/include/c++/7/bits/postypes.h:
+
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
 
 /usr/include/c++/7/array:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_strans_bones.hpp:
+
 /usr/include/c++/7/bits/locale_conv.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/hdf5_misc.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_stddev_bones.hpp:
+
+/usr/include/c++/7/ctime:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/debug.hpp:
+
 /usr/include/features.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trimat.hpp:
 
 /usr/include/c++/7/bits/localefwd.h:
 
 /usr/include/c++/7/bits/stl_numeric.h:
 
-/usr/include/armadillo_bits/fn_trans.hpp:
-
 /usr/include/c++/7/bits/sstream.tcc:
 
-/usr/include/armadillo_bits/GenSpecialiser.hpp:
+/usr/include/c++/7/bits/uniform_int_dist.h:
 
-/usr/include/c++/7/istream:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/sp_auxlib_bones.hpp:
 
 /home/felipefr/github/Piola/fortranCode/include/solvergp.h:
-
-/usr/include/armadillo_bits/SpMat_meat.hpp:
 
 /usr/include/c++/7/bits/memoryfwd.h:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/gthr.h:
 
-/usr/include/armadillo_bits/spop_diagmat_meat.hpp:
+/usr/include/c++/7/cstdlib:
 
-/home/felipefr/github/Piola/src/solver.hpp:
-
-/usr/include/armadillo_bits/operator_minus.hpp:
-
-/usr/include/armadillo_bits/running_stat_bones.hpp:
-
-/usr/include/armadillo_bits/Gen_bones.hpp:
-
-/usr/include/armadillo_bits/glue_intersect_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/running_stat_meat.hpp:
 
 /usr/include/c++/7/bits/istream.tcc:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_times_meat.hpp:
+
 /usr/include/c++/7/bits/stl_algobase.h:
 
-/usr/include/armadillo_bits/fn_reshape.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_plus_meat.hpp:
 
-/usr/include/armadillo_bits/diskio_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Base_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cov_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_conv_to.hpp:
 
 /usr/include/c++/7/bits/basic_ios.tcc:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_nonzeros_meat.hpp:
+
 /usr/include/pthread.h:
 
-/usr/include/armadillo_bits/spdiagview_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diagmat_meat.hpp:
 
-/usr/include/armadillo_bits/wall_clock_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_max_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/GlueCube_meat.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/ctype_inline.h:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/ctype_base.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_dotext_meat.hpp:
+
 /usr/include/unistd.h:
-
-/usr/include/armadillo_bits/auxlib_meat.hpp:
-
-/usr/include/armadillo_bits/fn_diff.hpp:
-
-/usr/include/armadillo_bits/op_clamp_bones.hpp:
 
 /usr/include/c++/7/bits/locale_facets.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_each_bones.hpp:
+
 /usr/include/c++/7/bits/allocator.h:
 
-/usr/include/armadillo_bits/fn_range.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mul_herk.hpp:
 
-/usr/include/armadillo_bits/fn_trapz.hpp:
-
-/usr/include/armadillo_bits/operator_div.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_repmat_bones.hpp:
 
 /usr/include/c++/7/iomanip:
 
-/usr/include/armadillo_bits/newarp_cx_attrib.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_htrans_bones.hpp:
 
 /usr/include/c++/7/bits/streambuf.tcc:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/typedef_elem_check.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spdiagview_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpGlue_bones.hpp:
+
+/usr/include/c++/7/streambuf:
+
 /usr/include/c++/7/stdexcept:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_unique.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
 
-/usr/include/armadillo_bits/spop_trimat_meat.hpp:
-
-/usr/include/armadillo_bits/wrapper_arpack.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/gmm_diag_meat.hpp:
 
 /usr/include/c++/7/bits/locale_classes.tcc:
 
 /usr/include/stdlib.h:
 
-/usr/include/armadillo_bits/glue_cross_bones.hpp:
-
 /home/felipefr/github/Piola/src/main.cpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_max.hpp:
 
 /usr/include/c++/7/iostream:
 
 /usr/include/c++/7/bits/stl_relops.h:
 
+/usr/include/c++/7/bits/locale_facets_nonio.tcc:
+
+/usr/include/c++/7/bits/fstream.tcc:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlue_meat.hpp:
+
 /usr/include/locale.h:
-
-/usr/include/armadillo_bits/subview_elem1_bones.hpp:
-
-/usr/include/armadillo_bits/running_stat_vec_bones.hpp:
-
-/usr/include/armadillo_bits/fn_normalise.hpp:
 
 /usr/include/c++/7/bits/functional_hash.h:
 
-/usr/include/armadillo_bits/fn_ones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_nonzeros_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_stddev_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_ostream.hpp:
 
 /usr/include/asm-generic/errno.h:
 
-/usr/include/armadillo_bits/subview_cube_each_meat.hpp:
-
 /usr/include/c++/7/bits/hash_bytes.h:
-
-/usr/include/armadillo_bits/fn_regspace.hpp:
-
-/usr/include/armadillo_bits/glue_histc_bones.hpp:
 
 /usr/include/errno.h:
 
-/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_find_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtOpCube_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_normalise_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_min.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/sys_errlist.h:
 
-/usr/include/armadillo_bits/mul_herk.hpp:
-
-/usr/include/armadillo_bits/Base_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_strans_meat.hpp:
 
 /usr/include/c++/7/system_error:
 
-/usr/include/c++/7/bits/stl_map.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diagvec_meat.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/_G_config.h:
 
-/usr/include/armadillo_bits/spop_htrans_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_kron_bones.hpp:
 
 /usr/include/stdio.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cor_bones.hpp:
+
 /home/felipefr/github/Piola/src/simulSettings.hpp:
 
-/usr/include/armadillo_bits/mtOpCube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_toeplitz_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_all.hpp:
 
 /usr/include/alloca.h:
 
-/usr/include/armadillo_bits/fn_trunc_log.hpp:
-
 /usr/include/libintl.h:
 
-/usr/include/armadillo_bits/fn_speye.hpp:
-
-/usr/include/c++/7/chrono:
-
-/usr/include/armadillo_bits/op_cor_meat.hpp:
-
-/usr/include/armadillo_bits/fn_polyfit.hpp:
-
-/usr/include/armadillo_bits/mtGlue_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_resize.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/sysmacros.h:
 
-/usr/include/armadillo_bits/fn_svd.hpp:
-
 /usr/include/x86_64-linux-gnu/sys/sysmacros.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
-
-/usr/include/c++/7/initializer_list:
-
-/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
-
-/usr/include/armadillo_bits/op_chi2rnd_meat.hpp:
-
-/usr/include/armadillo_bits/op_htrans_meat.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/math-vector.h:
 
-/usr/include/armadillo_bits/fn_strans.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_find_unique_bones.hpp:
 
-/usr/include/armadillo_bits/op_var_bones.hpp:
-
-/usr/include/armadillo_bits/fn_cross.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlue_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_symmat_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eig_pair.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/getopt_core.h:
 
@@ -1460,55 +1262,53 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/c++/7/bits/random.tcc:
 
-/usr/include/armadillo_bits/op_strans_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_blas.hpp:
 
-/usr/include/armadillo_bits/op_sort_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Mat_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_cond.hpp:
 
 /usr/include/c++/7/ext/string_conversions.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_min_meat.hpp:
+
 /usr/include/limits.h:
 
-/usr/include/armadillo_bits/newarp_SymEigsSolver_bones.hpp:
-
-/usr/include/armadillo_bits/include_superlu.hpp:
+/usr/include/x86_64-linux-gnu/c++/7/bits/time_members.h:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/error_constants.h:
 
-/usr/include/armadillo_bits/fn_mean.hpp:
-
 /usr/include/c++/7/bits/locale_facets.tcc:
 
-/usr/include/armadillo_bits/fn_elem.hpp:
-
 /usr/include/c++/7/ext/alloc_traits.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_toeplitz.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtOp_meat.hpp:
 
 /usr/include/c++/7/bits/basic_string.h:
 
 /usr/include/sched.h:
 
-/usr/include/armadillo_bits/SpSubview_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_static_check.hpp:
 
 /usr/include/c++/7/bits/range_access.h:
 
-/usr/include/armadillo_bits/arma_str.hpp:
-
-/usr/include/armadillo_bits/op_all_meat.hpp:
-
 /usr/include/c++/7/backward/binders.h:
-
-/usr/include/armadillo_bits/subview_field_bones.hpp:
-
-/usr/include/armadillo_bits/fn_hist.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
 /usr/include/x86_64-linux-gnu/bits/posix_opt.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_arpack.hpp:
+
 /usr/include/c++/7/ext/new_allocator.h:
 
 /usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
 
-/usr/include/armadillo_bits/promote_type.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_var.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/traits.hpp:
 
 /usr/include/wctype.h:
 
@@ -1516,139 +1316,131 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/c++/7/algorithm:
 
-/usr/include/armadillo_bits/def_arpack.hpp:
-
-/usr/include/armadillo_bits/glue_mixed_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Mat_bones.hpp:
 
 /usr/include/c++/7/string:
 
-/usr/include/armadillo_bits/Col_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sort.hpp:
 
 /usr/include/asm-generic/errno-base.h:
 
 /usr/include/c++/7/bits/locale_classes.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_trimat_meat.hpp:
+
+/usr/include/c++/7/cstdio:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_min_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_minus.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cumprod_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_hist_bones.hpp:
 
 /usr/include/linux/errno.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eOpCube_bones.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
 
-/usr/include/armadillo_bits/newarp_UpperHessenbergQR_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpValProxy_meat.hpp:
 
 /usr/include/c++/7/bits/move.h:
 
-/usr/include/armadillo_bits/glue_polyfit_meat.hpp:
-
 /usr/include/c++/7/bits/invoke.h:
 
-/usr/include/armadillo_bits/fn_randi.hpp:
-
-/usr/include/armadillo_bits/operator_times.hpp:
-
 /usr/include/c++/7/new:
-
-/usr/include/armadillo_bits/Op_bones.hpp:
-
-/usr/include/armadillo_bits/mtOpCube_bones.hpp:
-
-/usr/include/armadillo_bits/newarp_DenseGenMatProd_bones.hpp:
 
 /usr/include/c++/7/ostream:
 
 /usr/include/c++/7/bits/stl_iterator_base_funcs.h:
 
-/usr/include/armadillo_bits/newarp_GenEigsSolver_bones.hpp:
-
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
 
-/usr/include/c++/7/bits/exception_ptr.h:
-
 /usr/include/c++/7/bits/algorithmfwd.h:
-
-/usr/include/armadillo_bits/diagmat_proxy.hpp:
 
 /usr/include/c++/7/bits/refwrap.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Cube_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_mean_bones.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
 
-/usr/include/armadillo_bits/spop_strans_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpSubview_bones.hpp:
 
-/usr/include/armadillo_bits/operator_cube_div.hpp:
-
-/usr/include/armadillo_bits/op_mean_bones.hpp:
+/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
 
 /usr/include/c++/7/bits/exception_defines.h:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/atomic_word.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpProxy.hpp:
+
+/home/felipefr/github/Piola/src/solver.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cov_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_misc_bones.hpp:
+
+/usr/include/x86_64-linux-gnu/c++/7/bits/c++locale.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/constants_compat.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
-
-/usr/include/c++/7/bits/basic_string.tcc:
-
-/usr/include/armadillo_bits/subview_meat.hpp:
-
-/usr/include/armadillo_bits/SpGlue_bones.hpp:
-
-/usr/include/armadillo_bits/spop_max_meat.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/time_t.h:
 
-/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_as_scalar.hpp:
 
-/usr/include/armadillo_bits/SpSubview_meat.hpp:
+/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
 
 /usr/include/x86_64-linux-gnu/sys/types.h:
 
-/usr/include/armadillo_bits/cond_rel_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_shuffle.hpp:
 
 /usr/include/c++/7/numeric:
 
-/usr/include/armadillo_bits/op_cov_bones.hpp:
-
-/usr/include/armadillo_bits/glue_relational_bones.hpp:
-
 /usr/include/x86_64-linux-gnu/c++/7/bits/c++allocator.h:
-
-/usr/include/armadillo_bits/subview_cube_each_bones.hpp:
 
 /usr/include/c++/7/typeinfo:
 
-/usr/include/x86_64-linux-gnu/bits/wchar.h:
-
 /usr/include/c++/7/debug/assertions.h:
 
-/usr/include/armadillo_bits/op_clamp_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_vectorise_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
-/usr/include/armadillo_bits/newarp_SparseGenMatProd_meat.hpp:
-
 /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
 
-/usr/include/armadillo_bits/Gen_meat.hpp:
-
-/usr/include/armadillo_bits/eOpCube_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_cube_each_meat.hpp:
 
 /usr/include/c++/7/cwchar:
-
-/usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
 
 /usr/include/c++/7/bits/stl_construct.h:
 
-/usr/include/armadillo_bits/op_cumsum_bones.hpp:
-
-/usr/include/armadillo_bits/fn_misc.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtGlue_meat.hpp:
 
 /usr/include/c++/7/bits/ostream_insert.h:
+
+/usr/include/wchar.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_sum_meat.hpp:
 
 /usr/include/c++/7/bits/ios_base.h:
 
 /usr/include/c++/7/bits/codecvt.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_solve_meat.hpp:
 
 /usr/include/x86_64-linux-gnu/sys/cdefs.h:
 
@@ -1658,77 +1450,69 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
-/usr/include/armadillo_bits/fn_max.hpp:
-
-/usr/include/armadillo_bits/glue_solve_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtSpOp_bones.hpp:
 
 /usr/include/c++/7/iosfwd:
 
-/usr/include/armadillo_bits/xtrans_mat_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eop_core_meat.hpp:
 
-/usr/include/armadillo_bits/op_hist_bones.hpp:
-
-/usr/include/armadillo_bits/fn_inplace_trans.hpp:
-
-/usr/include/armadillo_bits/mtGlue_meat.hpp:
-
-/usr/include/armadillo_bits/glue_conv_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wall_clock_bones.hpp:
 
 /usr/include/c++/7/bits/cxxabi_forced.h:
 
-/usr/include/c++/7/bits/concept_check.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_div.hpp:
 
-/usr/include/armadillo_bits/fn_vectorise.hpp:
+/usr/include/c++/7/bits/concept_check.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
 
-/usr/include/armadillo_bits/Row_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Gen_bones.hpp:
 
-/usr/include/armadillo_bits/op_logmat_bones.hpp:
+/usr/include/c++/7/clocale:
 
-/usr/include/armadillo_bits/restrictors.hpp:
-
-/usr/include/armadillo_bits/typedef_elem.hpp:
-
-/usr/include/armadillo_bits/op_sort_index_bones.hpp:
-
-/usr/include/armadillo_bits/spglue_plus_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/typedef_mat_fixed.hpp:
 
 /usr/include/c++/7/bits/alloc_traits.h:
 
-/usr/include/armadillo_bits/constants_old.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cor_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_elem1_meat.hpp:
+
+/usr/include/c++/7/bits/predefined_ops.h:
 
 /usr/include/c++/7/type_traits:
 
-/usr/include/armadillo_bits/op_diagvec_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_cube_each_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_div.hpp:
 
 /usr/include/x86_64-linux-gnu/sys/select.h:
 
-/usr/include/armadillo_bits/op_fft_meat.hpp:
-
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
-/usr/include/armadillo_bits/op_chol_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_nonzeros.hpp:
+
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cov_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_rng.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
-/usr/include/armadillo_bits/op_chol_bones.hpp:
-
-/usr/include/armadillo_bits/newarp_SortEigenvalue.hpp:
-
-/usr/include/armadillo_bits/fn_n_unique.hpp:
-
 /usr/include/c++/7/bits/cxxabi_init_exception.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_inv_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sort_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/errno.h:
 
-/usr/include/armadillo_bits/op_index_min_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_clamp_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
 /usr/include/x86_64-linux-gnu/bits/byteswap-16.h:
-
-/usr/include/armadillo_bits/spop_strans_bones.hpp:
 
 /usr/include/c++/7/bits/nested_exception.h:
 
@@ -1736,61 +1520,61 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/stdc-predef.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_version.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spdiagview_meat.hpp:
+
 /usr/include/c++/7/utility:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h:
 
-/usr/include/armadillo_bits/glue_hypot_bones.hpp:
-
-/usr/include/armadillo_bits/upgrade_val.hpp:
-
-/usr/include/armadillo_bits/op_resize_bones.hpp:
-
-/usr/include/armadillo_bits/subview_elem1_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_unique_meat.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/floatn.h:
 
-/usr/include/armadillo_bits/op_cx_scalar_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_var_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/GlueCube_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_var_bones.hpp:
+
+/usr/include/c++/7/bits/ptr_traits.h:
+
+/usr/include/c++/7/bits/stl_uninitialized.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/injector_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_elem1_bones.hpp:
 
 /usr/include/c++/7/bits/char_traits.h:
 
-/usr/include/armadillo_bits/glue_hist_bones.hpp:
-
-/usr/include/c++/7/ios:
-
-/usr/include/armadillo_bits/sp_auxlib_bones.hpp:
-
-/usr/include/c++/7/cerrno:
-
-/usr/include/c++/7/random:
-
 /usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
-
-/usr/include/armadillo_bits/operator_cube_times.hpp:
-
-/usr/include/c++/7/ext/aligned_buffer.h:
-
-/usr/include/armadillo_bits/fn_sqrtmat.hpp:
 
 /usr/include/c++/7/bits/streambuf_iterator.h:
 
-/usr/include/armadillo_bits/newarp_SparseGenMatProd_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_conv.hpp:
 
 /usr/include/c++/7/bits/stringfwd.h:
 
 /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
-/usr/include/c++/7/cctype:
+/usr/include/c++/7/bits/ostream.tcc:
 
-/usr/include/armadillo_bits/SpMat_bones.hpp:
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/compiler_setup_post.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_schur.hpp:
+
+/usr/include/c++/7/cctype:
 
 /usr/include/c++/7/bits/cpp_type_traits.h:
 
-/usr/include/c++/7/bits/stl_tree.h:
+/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
 
-/usr/include/armadillo_bits/spop_sum_bones.hpp:
+/usr/include/c++/7/bits/basic_ios.h:
 
-/usr/include/c++/7/bits/functexcept.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_plus.hpp:
 
 /usr/include/c++/7/bits/exception.h:
 
@@ -1800,97 +1584,61 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
 
-/usr/include/armadillo_bits/op_inv_meat.hpp:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdint.h:
-
-/usr/include/armadillo_bits/distr_param.hpp:
-
-/usr/include/c++/7/bits/locale_facets_nonio.h:
-
-/usr/include/armadillo_bits/typedef_mat_fixed.hpp:
-
-/usr/include/armadillo_bits/fn_spones.hpp:
-
 /usr/include/c++/7/ext/type_traits.h:
 
-/usr/include/armadillo_bits/newarp_UpperHessenbergEigen_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/include_superlu.hpp:
 
-/usr/include/armadillo_bits/op_sqrtmat_bones.hpp:
-
-/usr/include/c++/7/bits/std_function.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_histc_bones.hpp:
 
 /usr/include/c++/7/bits/stl_iterator_base_types.h:
 
-/usr/include/c++/7/bits/atomic_base.h:
+/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
 
-/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
+/usr/include/c++/7/initializer_list:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_toeplitz_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_conv_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
 /usr/include/c++/7/ext/numeric_traits.h:
 
-/usr/include/c++/7/cstdlib:
-
-/usr/include/armadillo_bits/op_symmat_bones.hpp:
-
-/usr/include/armadillo_bits/op_find_meat.hpp:
-
-/usr/include/armadillo_bits/diskio_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_times_bones.hpp:
 
 /usr/include/c++/7/bits/stl_pair.h:
 
-/usr/include/armadillo_bits/op_index_min_bones.hpp:
-
-/usr/include/armadillo_bits/fn_conv_to.hpp:
-
-/usr/include/c++/7/bits/stl_iterator.h:
-
-/usr/include/armadillo_bits/def_blas.hpp:
-
-/usr/include/armadillo_bits/fn_spsolve.hpp:
-
-/usr/include/armadillo_bits/mtOp_meat.hpp:
-
 /usr/include/c++/7/debug/debug.h:
 
-/usr/include/armadillo_bits/op_diff_meat.hpp:
-
-/usr/include/armadillo_bits/eGlue_bones.hpp:
-
-/usr/include/armadillo_bits/wrapper_blas.hpp:
+/usr/include/c++/7/fstream:
 
 /usr/include/x86_64-linux-gnu/bits/locale.h:
 
 /usr/include/stdint.h:
 
-/usr/include/armadillo_bits/newarp_DoubleShiftQR_bones.hpp:
-
 /usr/include/x86_64-linux-gnu/sys/time.h:
-
-/usr/include/armadillo_bits/fn_schur.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/local_lim.h:
-
-/usr/include/armadillo_bits/op_median_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
 
-/usr/include/ctype.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_times_meat.hpp:
 
-/usr/include/armadillo_bits/running_stat_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_ones.hpp:
+
+/usr/include/ctype.h:
 
 /usr/include/c++/7/tuple:
 
 /usr/include/x86_64-linux-gnu/bits/iscanonical.h:
 
-/usr/include/armadillo_bits/op_vectorise_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_mean.hpp:
 
-/usr/include/x86_64-linux-gnu/c++/7/bits/gthr-default.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_trimat_bones.hpp:
 
-/usr/include/armadillo_bits/glue_min_bones.hpp:
+/usr/include/x86_64-linux-gnu/bits/endian.h:
 
 /usr/include/c++/7/bits/vector.tcc:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_trunc_exp.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/libio.h:
 
@@ -1898,31 +1646,37 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/c++/7/ext/atomicity.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_any_meat.hpp:
 
-/usr/include/c++/7/bits/basic_ios.h:
+/usr/include/c++/7/bits/locale_facets_nonio.h:
 
-/usr/include/armadillo_bits/op_repmat_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_lapack.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_arpack.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_join_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
-
-/usr/include/armadillo_bits/subview_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
 /usr/include/c++/7/stdlib.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cor_meat.hpp:
+
 /usr/include/c++/7/sstream:
 
 /usr/include/x86_64-linux-gnu/bits/cpu-set.h:
 
-/usr/include/armadillo_bits/op_cumprod_bones.hpp:
-
 /usr/include/c++/7/bits/stl_bvector.h:
 
-/usr/include/armadillo_bits/Mat_meat.hpp:
+/usr/include/c++/7/istream:
 
-/usr/include/armadillo_bits/fn_chol.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/promote_type.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/config.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_superlu.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/sched.h:
 
@@ -1930,35 +1684,23 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/time.h:
 
-/usr/include/armadillo_bits/mul_syrk.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_hist.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Col_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpCol_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/timex.h:
 
 /home/felipefr/github/Piola/src/utils.hpp:
 
-/usr/include/c++/7/atomic:
-
-/usr/include/armadillo_bits/spop_symmat_bones.hpp:
-
 /usr/include/c++/7/cstdint:
-
-/usr/include/armadillo_bits/glue_intersect_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/fp-logb.h:
 
-/usr/include/armadillo_bits/glue_hist_meat.hpp:
-
 /usr/include/c++/7/bits/std_abs.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
-
-/usr/include/armadillo_bits/compiler_extra.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
-
-/usr/include/armadillo_bits/SizeMat_meat.hpp:
-
-/usr/include/armadillo_bits/arma_static_check.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_dot_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/long-double.h:
 
@@ -1966,7 +1708,17 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/string.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/compiler_setup.hpp:
+
+/usr/include/x86_64-linux-gnu/c++/7/bits/gthr-default.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cor_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_schur.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diagvec_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/fp-fast.h:
 
@@ -1976,83 +1728,77 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
 
-/usr/include/armadillo_bits/arma_version.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_find_unique_meat.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_lapack.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_flip_meat.hpp:
+
+/usr/include/c++/7/ios:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtOp_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_flip.hpp:
 
 /home/felipefr/github/Piola/src/linAlg.hpp:
 
-/usr/include/armadillo_bits/newarp_DoubleShiftQR_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo:
 
-/usr/include/c++/7/clocale:
-
-/usr/include/armadillo_bits/mtOp_bones.hpp:
-
-/usr/include/armadillo:
-
-/usr/include/armadillo_bits/arrayops_meat.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
-
-/usr/include/c++/7/cstddef:
-
-/usr/include/armadillo_bits/fn_eig_gen.hpp:
-
-/usr/include/armadillo_bits/spglue_minus_bones.hpp:
-
-/usr/include/armadillo_bits/subview_elem2_bones.hpp:
-
-/usr/include/armadillo_bits/SizeMat_bones.hpp:
-
-/usr/include/armadillo_bits/op_logmat_meat.hpp:
+/usr/include/c++/7/cstring:
 
 /usr/include/x86_64-linux-gnu/bits/uio_lim.h:
 
-/usr/include/armadillo_bits/gmm_misc_bones.hpp:
-
-/usr/include/strings.h:
-
-/usr/include/armadillo_bits/subview_field_meat.hpp:
-
 /usr/include/c++/7/climits:
 
-/usr/include/armadillo_bits/strip.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_plus_bones.hpp:
 
-/usr/include/c++/7/bits/stl_multimap.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpValProxy_bones.hpp:
 
-/usr/include/armadillo_bits/SpBase_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_cube_plus.hpp:
 
 /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_kron.hpp:
 
-/usr/include/armadillo_bits/operator_plus.hpp:
+/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/syslimits.h:
 
 /usr/include/c++/7/bits/stl_tempbuf.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diagmat_bones.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_forward.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Proxy.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_expmat_bones.hpp:
 
 /usr/include/linux/limits.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_config.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cov_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/running_stat_vec_bones.hpp:
+
 /usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
 
-/usr/include/armadillo_bits/config.hpp:
-
-/usr/include/armadillo_bits/mtGlueCube_meat.hpp:
-
-/usr/include/armadillo_bits/op_unique_bones.hpp:
-
-/usr/include/armadillo_bits/op_shuffle_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SizeCube_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
 
-/usr/include/armadillo_bits/fn_log_det.hpp:
-
 /usr/include/c++/7/bits/unique_ptr.h:
 
-/usr/include/armadillo_bits/GenCube_bones.hpp:
-
-/usr/include/armadillo_bits/BaseCube_bones.hpp:
-
 /usr/include/c++/7/limits:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_diff_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_inv.hpp:
 
 /usr/include/endian.h:
 
@@ -2060,215 +1806,35 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/c++/7/bits/stl_algo.h:
 
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diagview_bones.hpp:
+
+/usr/include/c++/7/bits/stl_heap.h:
+
 /usr/include/c++/7/complex:
 
-/usr/include/armadillo_bits/injector_bones.hpp:
-
-/usr/include/c++/7/bits/predefined_ops.h:
-
-/usr/include/c++/7/map:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cumsum_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/environments.h:
-
-/usr/include/armadillo_bits/glue_affmul_bones.hpp:
-
-/usr/include/armadillo_bits/op_strans_bones.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types/FILE.h:
 
 /usr/include/x86_64-linux-gnu/bits/confname.h:
 
-/home/felipefr/github/Piola/src/data.hpp:
-
-/usr/include/c++/7/bits/random.h:
-
-/usr/include/armadillo_bits/running_stat_vec_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_median.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/opt_random.h:
 
-/usr/include/c++/7/functional:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_max_bones.hpp:
 
-/usr/include/armadillo_bits/spop_symmat_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlueCube_bones.hpp:
+
+/usr/include/c++/7/functional:
 
 /usr/include/c++/7/ratio:
 
-/usr/include/c++/7/mutex:
+/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
 
-/usr/include/armadillo_bits/field_bones.hpp:
-
-/usr/include/c++/7/cstring:
-
-/usr/include/c++/7/bits/atomic_lockfree_defines.h:
-
-/usr/include/armadillo_bits/include_atlas.hpp:
-
-/usr/include/armadillo_bits/fn_trimat.hpp:
-
-/usr/include/armadillo_bits/SpRow_bones.hpp:
-
-/usr/include/armadillo_bits/fn_normcdf.hpp:
-
-/usr/include/armadillo_bits/include_hdf5.hpp:
-
-/usr/include/superlu/supermatrix.h:
-
-/usr/include/superlu/superlu_enum_consts.h:
-
-/usr/include/armadillo_bits/cond_rel_bones.hpp:
-
-/usr/include/armadillo_bits/arma_forward.hpp:
-
-/usr/include/armadillo_bits/fn_sprandn.hpp:
-
-/usr/include/armadillo_bits/mtSpOp_meat.hpp:
-
-/usr/include/armadillo_bits/arma_rng.hpp:
-
-/usr/include/armadillo_bits/glue_polyval_meat.hpp:
-
-/usr/include/c++/7/bits/std_mutex.h:
-
-/usr/include/armadillo_bits/op_sum_bones.hpp:
-
-/usr/include/armadillo_bits/typedef_elem_check.hpp:
-
-/usr/include/armadillo_bits/typedef_mat.hpp:
-
-/usr/include/armadillo_bits/wrapper_superlu.hpp:
-
-/usr/include/armadillo_bits/traits.hpp:
-
-/usr/include/armadillo_bits/op_wishrnd_meat.hpp:
-
-/usr/include/armadillo_bits/access.hpp:
-
-/usr/include/armadillo_bits/OpCube_bones.hpp:
-
-/usr/include/armadillo_bits/span.hpp:
-
-/usr/include/armadillo_bits/newarp_UpperHessenbergQR_meat.hpp:
-
-/usr/include/armadillo_bits/constants.hpp:
-
-/usr/include/armadillo_bits/mp_misc.hpp:
-
-/usr/include/armadillo_bits/arma_rng_cxx98.hpp:
-
-/usr/include/armadillo_bits/spop_max_bones.hpp:
-
-/usr/include/armadillo_bits/op_reshape_bones.hpp:
-
-/usr/include/armadillo_bits/Op_meat.hpp:
-
-/usr/include/armadillo_bits/arma_rng_cxx11.hpp:
-
-/usr/include/armadillo_bits/SpCol_bones.hpp:
-
-/usr/include/armadillo_bits/def_lapack.hpp:
-
-/usr/include/armadillo_bits/op_repmat_meat.hpp:
-
-/usr/include/armadillo_bits/Proxy.hpp:
-
-/usr/include/armadillo_bits/def_atlas.hpp:
-
-/usr/include/armadillo_bits/glue_max_meat.hpp:
-
-/usr/include/armadillo_bits/op_pinv_bones.hpp:
-
-/usr/include/armadillo_bits/def_superlu.hpp:
-
-/usr/include/armadillo_bits/def_hdf5.hpp:
-
-/usr/include/armadillo_bits/wrapper_lapack.hpp:
-
-/usr/include/armadillo_bits/wrapper_atlas.hpp:
-
-/usr/include/armadillo_bits/arrayops_bones.hpp:
-
-/usr/include/c++/7/bits/ptr_traits.h:
-
-/usr/include/c++/7/bits/stl_uninitialized.h:
-
-/usr/include/armadillo_bits/podarray_bones.hpp:
-
-/usr/include/c++/7/fstream:
-
-/usr/include/armadillo_bits/auxlib_bones.hpp:
-
-/usr/include/armadillo_bits/Mat_bones.hpp:
-
-/usr/include/armadillo_bits/fn_cond.hpp:
-
-/usr/include/c++/7/bits/fstream.tcc:
-
-/usr/include/armadillo_bits/Row_bones.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
-
-/usr/include/armadillo_bits/xvec_htrans_bones.hpp:
-
-/usr/include/armadillo_bits/compiler_setup.hpp:
-
-/usr/include/armadillo_bits/SizeCube_bones.hpp:
-
-/usr/include/armadillo_bits/gmm_full_meat.hpp:
-
-/usr/include/x86_64-linux-gnu/c++/7/bits/time_members.h:
-
-/usr/include/armadillo_bits/SpValProxy_bones.hpp:
-
-/usr/include/c++/7/ctime:
-
-/usr/include/armadillo_bits/MapMat_bones.hpp:
-
-/usr/include/armadillo_bits/newarp_UpperHessenbergEigen_bones.hpp:
-
-/usr/include/c++/7/streambuf:
-
-/usr/include/armadillo_bits/op_relational_bones.hpp:
-
-/usr/include/armadillo_bits/MapMat_meat.hpp:
-
-/usr/include/armadillo_bits/op_index_max_bones.hpp:
-
-/usr/include/armadillo_bits/subview_cube_bones.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/endian.h:
-
-/usr/include/armadillo_bits/diagview_bones.hpp:
-
-/usr/include/armadillo_bits/subview_each_bones.hpp:
-
-/usr/include/armadillo_bits/SpOp_bones.hpp:
-
-/usr/include/armadillo_bits/eOp_bones.hpp:
-
-/usr/include/armadillo_bits/mtGlueCube_bones.hpp:
-
-/usr/include/armadillo_bits/newarp_SymEigsSolver_meat.hpp:
-
-/usr/include/armadillo_bits/fn_logmat.hpp:
-
-/usr/include/armadillo_bits/operator_cube_plus.hpp:
-
-/usr/include/armadillo_bits/eOpCube_bones.hpp:
-
-/usr/include/armadillo_bits/mtSpOp_bones.hpp:
-
-/usr/include/armadillo_bits/Cube_bones.hpp:
-
-/usr/include/x86_64-linux-gnu/c++/7/bits/c++locale.h:
-
-/usr/include/armadillo_bits/op_stddev_bones.hpp:
-
-/usr/include/armadillo_bits/Glue_bones.hpp:
-
-/usr/include/armadillo_bits/glue_kron_bones.hpp:
-
-/usr/include/armadillo_bits/GlueCube_bones.hpp:
-
-/usr/include/armadillo_bits/band_helper.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/include_atlas.hpp:
 
 /usr/include/x86_64-linux-gnu/c++/7/bits/c++io.h:
 
@@ -2276,102 +1842,242 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 
 /usr/include/x86_64-linux-gnu/bits/byteswap.h:
 
-/usr/include/armadillo_bits/eGlueCube_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/include_hdf5.hpp:
 
-/usr/include/armadillo_bits/eop_core_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_ostream_bones.hpp:
 
-/usr/include/armadillo_bits/op_toeplitz_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/typedef_elem.hpp:
 
-/usr/include/c++/7/bits/ostream.tcc:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/typedef_mat.hpp:
 
-/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_str.hpp:
 
-/usr/include/armadillo_bits/eglue_core_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_chol_meat.hpp:
 
-/usr/include/armadillo_bits/eOp_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/upgrade_val.hpp:
 
-/usr/include/armadillo_bits/op_diagmat_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/restrictors.hpp:
 
-/usr/include/armadillo_bits/op_dot_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/access.hpp:
 
-/usr/include/armadillo_bits/op_min_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/distr_param.hpp:
 
-/usr/include/armadillo_bits/op_cumprod_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/constants.hpp:
 
-/usr/include/armadillo_bits/op_inv_bones.hpp:
+/usr/include/strings.h:
 
-/usr/include/armadillo_bits/glue_join_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_rng_cxx98.hpp:
 
-/usr/include/armadillo_bits/op_find_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_clamp_meat.hpp:
 
-/usr/include/armadillo_bits/op_htrans_bones.hpp:
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
 
-/usr/include/armadillo_bits/glue_polyval_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arma_rng_cxx11.hpp:
 
-/usr/include/c++/7/bits/locale_facets_nonio.tcc:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpBase_bones.hpp:
 
-/usr/include/armadillo_bits/op_max_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_fft2.hpp:
 
-/usr/include/armadillo_bits/op_toeplitz_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/operator_times.hpp:
 
-/usr/include/armadillo_bits/op_cor_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_blas.hpp:
 
-/usr/include/armadillo_bits/op_max_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_strans_meat.hpp:
 
-/usr/include/armadillo_bits/op_shift_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_min_bones.hpp:
 
-/usr/include/armadillo_bits/op_shuffle_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eig_sym.hpp:
 
-/usr/include/armadillo_bits/Base_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_atlas.hpp:
 
-/usr/include/armadillo_bits/op_prod_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eglue_core_bones.hpp:
 
-/usr/include/armadillo_bits/debug.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/gmm_diag_bones.hpp:
 
-/usr/include/armadillo_bits/op_dotext_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Col_meat.hpp:
 
-/usr/include/armadillo_bits/op_misc_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/def_hdf5.hpp:
 
-/usr/include/armadillo_bits/fn_eig_sym.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/BaseCube_meat.hpp:
 
-/usr/include/armadillo_bits/op_flip_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_atlas.hpp:
 
-/usr/include/wchar.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_bones.hpp:
 
-/usr/include/armadillo_bits/op_normalise_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/wrapper_superlu.hpp:
 
-/usr/include/armadillo_bits/op_princomp_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arrayops_bones.hpp:
 
-/usr/include/c++/7/bits/stl_heap.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_eig_gen.hpp:
 
-/usr/include/armadillo_bits/op_misc_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/podarray_bones.hpp:
 
-/usr/include/armadillo_bits/op_cumsum_meat.hpp:
+/usr/include/c++/7/bits/std_function.h:
 
-/usr/include/armadillo_bits/operator_ostream.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/auxlib_bones.hpp:
 
-/usr/include/armadillo_bits/op_orth_null_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Base_bones.hpp:
 
-/usr/include/c++/7/cstdio:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Row_bones.hpp:
 
-/usr/include/armadillo_bits/op_find_unique_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/xvec_htrans_bones.hpp:
 
-/usr/include/armadillo_bits/op_fft_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/xtrans_mat_bones.hpp:
 
-/usr/include/armadillo_bits/fn_unique.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_sprandu.hpp:
 
-/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eop_core_bones.hpp:
 
-/usr/include/armadillo_bits/op_cx_scalar_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_mixed_bones.hpp:
 
-/usr/include/armadillo_bits/op_trimat_bones.hpp:
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
-/usr/include/armadillo_bits/op_diagmat_meat.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpRow_bones.hpp:
 
-/usr/include/armadillo_bits/op_any_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_pinv_bones.hpp:
 
-/usr/include/armadillo_bits/op_stddev_meat.hpp:
+/home/felipefr/github/Piola/src/data.hpp:
 
-/usr/include/armadillo_bits/Col_bones.hpp:
+/usr/include/c++/7/bits/random.h:
 
-/usr/include/armadillo_bits/op_all_bones.hpp:
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_chol_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_size.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/span.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/field_bones.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_elem2_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_log_det.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/diskio_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/ProxyCube.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_cube_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SizeMat_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Op_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/OpCube_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_norm.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpOp_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/running_stat_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtGlueCube_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/subview_field_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eOp_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_relational_bones.hpp:
+
+/usr/include/c++/7/bits/exception_ptr.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/mtGlue_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_randn.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_princomp_bones.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/GenCube_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_median_bones.hpp:
+
+/usr/include/c++/7/bits/stl_iterator.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sort_index_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_repmat_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_normalise_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_speye.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_sum_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/arrayops_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_reshape_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/fn_princomp.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_resize_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_shuffle_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/SpMat_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_prod_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_dotext_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_min_bones.hpp:
+
+/usr/include/c++/7/chrono:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/Glue_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_flip_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_median_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/field_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/BaseCube_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_relational_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_find_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/cond_rel_meat.hpp:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_cx_scalar_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_symmat_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_unique_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_fft_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_any_bones.hpp:
+
+/usr/include/c++/7/bits/functexcept.h:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_all_bones.hpp:
+
+/usr/include/c++/7/bits/basic_string.tcc:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_norm_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/running_stat_vec_meat.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_cross_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_solve_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_toeplitz_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spop_htrans_bones.hpp:
+
+/usr/include/c++/7/cerrno:
+
+/usr/include/c++/7/random:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/glue_max_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/op_hist_bones.hpp:
+
+/home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/gmm_misc_bones.hpp:

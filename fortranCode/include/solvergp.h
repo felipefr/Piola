@@ -12,8 +12,7 @@ extern "C" {
 }
 
 extern "C" {
-	void __interfacefortran_MOD_executersymbolicc(int* , int*, double* ,
-													int*, int*, int*);
+	void __interfacefortran_MOD_executersymbolicc(int* , int*, double* , int*, int*, int*);
 }
 
 inline void getLocalMatrix(int* id_Elem_Family, double* AE, double* BE, 
@@ -28,8 +27,7 @@ inline void getLocalMatrix(int* id_Elem_Family, double* AE, double* BE,
 
 inline void getLocalSymbolic(int* id_Elem_Family, int* Coupling, 
 					double* CommonPar, int* iDofT, int* NDim, int* MaxLRows) {
-	__interfacefortran_MOD_executersymbolicc(id_Elem_Family, Coupling,CommonPar,
-													iDofT,NDim,MaxLRows);
+	__interfacefortran_MOD_executersymbolicc(id_Elem_Family, Coupling,CommonPar,iDofT,NDim,MaxLRows);
 }
 
 #endif /* GPMATERIALS_H_ */

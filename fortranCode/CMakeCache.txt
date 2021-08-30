@@ -239,7 +239,7 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 routines_BINARY_DIR:STATIC=/home/felipefr/github/Piola/fortranCode
 
 //Dependencies for the target
-routines_LIB_DEPENDS:STATIC=general;/home/felipefr/github/gpmaterials/libgpmaterials_static.a;
+routines_LIB_DEPENDS:STATIC=general;/home/felipefr/github/Piola/gpMaterials_beta/libgpmaterials.so;
 
 //Value Computed by CMake
 routines_SOURCE_DIR:STATIC=/home/felipefr/github/Piola/fortranCode

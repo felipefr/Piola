@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/routines.dir/routines.f90.o"
-  "libroutines.a"
   "libroutines.pdb"
+  "libroutines.so"
 )
 
 # Per-language clean rules from dependency scanning.

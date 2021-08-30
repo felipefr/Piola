@@ -6,12 +6,13 @@ enable_language (Fortran)
 # definição do nome do project. Não precisa ser obrigatoriamente o nome do diretório
 project(routines)
 
-SET(LIBMATERIALS_LIB /home/felipefr/github/gpmaterials/libgpmaterials_static.a)
+# SET(LIBMATERIALS_LIB /home/felipefr/github/gpmaterials/libgpmaterials_static.a)
+SET(LIBMATERIALS_LIB /home/felipefr/github/Piola/gpMaterials_beta/libgpmaterials.so)
 
 ADD_DEFINITIONS(-fPIC -g -fbacktrace)
 
 SET(src routines.f90)
 
-add_library(routines STATIC ${src})
+add_library(routines SHARED ${src})
 
 target_link_libraries(routines ${LIBMATERIALS_LIB})

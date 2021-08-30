@@ -1,0 +1,21 @@
+# The fortran modules provided by this target.
+provides
+ constitutivelib.mod
+ damagefiblib.mod
+ damagelib.mod
+ damagemodelslib.mod
+ damagenewlib.mod
+ determinant.mod
+ efemlib.mod
+ fibreslib.mod
+ fibresmod.mod
+ fibresmodelslib.mod
+ finitestrainlib.mod
+ funcaux.mod
+ globalvariables.mod
+ linelaslib.mod
+ loadinglib.mod
+ materialslib.mod
+ multiscalelib.mod
+ ptsgausslib.mod
+ ptsgausslib2.mod

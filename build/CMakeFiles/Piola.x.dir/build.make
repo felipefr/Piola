@@ -92,7 +92,7 @@ Piola_x_EXTERNAL_OBJECTS =
 
 Piola.x: CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o
 Piola.x: CMakeFiles/Piola.x.dir/build.make
-Piola.x: /home/felipefr/github/Piola/fortranCode/libroutines.a
+Piola.x: /home/felipefr/github/Piola/fortranCode/libroutines.so
 Piola.x: CMakeFiles/Piola.x.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/felipefr/github/Piola/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Piola.x"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Piola.x.dir/link.txt --verbose=$(VERBOSE)

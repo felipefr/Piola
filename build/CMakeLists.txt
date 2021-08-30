@@ -7,9 +7,9 @@ cmake_minimum_required(VERSION 2.6)
 project(Piola)
 
 SET(LIBMATERIALS /home/felipefr/github/Piola/fortranCode/include)
-SET(LIBMATERIALS_LIB /home/felipefr/github/Piola/fortranCode/libroutines.a)
-SET(ARMADILLO_DIR /usr/include)
-SET(ARMADILLO_LIB_SO /usr/lib/libarmadillo.so)
+SET(LIBMATERIALS_LIB /home/felipefr/github/Piola/fortranCode/libroutines.so)
+SET(ARMADILLO_DIR /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include)
+SET(ARMADILLO_LIB_SO /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/libarmadillo.so)
 
 SET(Directoires ../src/)
 SET(fileExtensions .c .cpp .cc .h .hpp) 

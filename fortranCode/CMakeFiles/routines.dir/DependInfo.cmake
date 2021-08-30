@@ -14,6 +14,11 @@ set(CMAKE_Fortran_COMPILER_ID "GNU")
 set(CMAKE_Fortran_SUBMODULE_SEP "@")
 set(CMAKE_Fortran_SUBMODULE_EXT ".smod")
 
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_Fortran
+  "routines_EXPORTS"
+  )
+
 # The include file search paths:
 set(CMAKE_Fortran_TARGET_INCLUDE_PATH
   )
