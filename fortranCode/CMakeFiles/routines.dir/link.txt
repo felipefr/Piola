@@ -1,0 +1,2 @@
+/usr/bin/ar qc libroutines.a CMakeFiles/routines.dir/routines.f90.o
+/usr/bin/ranlib libroutines.a

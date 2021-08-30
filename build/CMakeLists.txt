@@ -4,14 +4,14 @@
 cmake_minimum_required(VERSION 2.6)
  
 # definição do nome do project. Não precisa ser obrigatoriamente o nome do diretório
-project(SolverGP)
+project(Piola)
 
-SET(LIBMATERIALS /home/felipe/LNCC/ComputationalTransportPhenomena/sgp++/fortranCode/include/)
-SET(LIBMATERIALS_LIB /home/felipe/LNCC/ComputationalTransportPhenomena/sgp++/fortranCode/libroutines.so)
-SET(ARMADILLO_DIR /home/felipe/PToolsV201311/armadillo-6.500.5/include)
-SET(ARMADILLO_LIB /home/felipe/PToolsV201311/armadillo-6.500.5/libarmadillo.so)
+SET(LIBMATERIALS /home/felipefr/github/Piola/fortranCode/include)
+SET(LIBMATERIALS_LIB /home/felipefr/github/Piola/fortranCode/libroutines.a)
+SET(ARMADILLO_DIR /usr/include)
+SET(ARMADILLO_LIB_SO /usr/lib/libarmadillo.so)
 
-SET(Directoires src/)
+SET(Directoires ../src/)
 SET(fileExtensions .c .cpp .cc .h .hpp) 
 SET(src)
 foreach(d ${Directoires})
@@ -23,6 +23,6 @@ endforeach(d)
 
 include_directories(${LIBMATERIALS} ${ARMADILLO_DIR})
 
-add_executable(SolverGP.x ${src})
+add_executable(Piola.x ${src})
 
-target_link_libraries(SolverGP.x ${LIBMATERIALS_LIB} ${ARMADILLO_LIB} lapack)
+target_link_libraries(Piola.x ${LIBMATERIALS_LIB} ${ARMADILLO_LIB} lapack) 

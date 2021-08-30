@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o -o Piola.x  /home/felipefr/github/Piola/fortranCode/libroutines.a -llapack 
