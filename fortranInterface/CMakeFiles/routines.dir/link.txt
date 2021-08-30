@@ -1,0 +1,1 @@
+/usr/bin/f95 -fPIC -shared -Wl,-soname,libroutines.so -o libroutines.so CMakeFiles/routines.dir/routines.f90.o  -Wl,-rpath,/home/felipefr/github/Piola/myelements /home/felipefr/github/Piola/myelements/libmyelements.so 

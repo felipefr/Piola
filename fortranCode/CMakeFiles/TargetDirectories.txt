@@ -1,3 +1,0 @@
-/home/felipefr/github/Piola/fortranCode/CMakeFiles/rebuild_cache.dir
-/home/felipefr/github/Piola/fortranCode/CMakeFiles/edit_cache.dir
-/home/felipefr/github/Piola/fortranCode/CMakeFiles/routines.dir

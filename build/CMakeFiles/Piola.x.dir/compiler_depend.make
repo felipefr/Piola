@@ -695,7 +695,7 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
   /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/compiler_setup_post.hpp \
   /home/felipefr/github/Piola/src/data.hpp \
   /home/felipefr/github/Piola/src/simulSettings.hpp \
-  /home/felipefr/github/Piola/fortranCode/include/solvergp.h
+  /home/felipefr/github/Piola/fortranInterface/include/solvergp.h
 
 
 /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/spglue_join_meat.hpp:
@@ -1093,8 +1093,6 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 /usr/include/c++/7/bits/uniform_int_dist.h:
 
 /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/sp_auxlib_bones.hpp:
-
-/home/felipefr/github/Piola/fortranCode/include/solvergp.h:
 
 /usr/include/c++/7/bits/memoryfwd.h:
 
@@ -1829,6 +1827,8 @@ CMakeFiles/Piola.x.dir/home/felipefr/github/Piola/src/main.cpp.o: /home/felipefr
 /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include/armadillo_bits/eGlueCube_bones.hpp:
 
 /usr/include/c++/7/functional:
+
+/home/felipefr/github/Piola/fortranInterface/include/solvergp.h:
 
 /usr/include/c++/7/ratio:
 

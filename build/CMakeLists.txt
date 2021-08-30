@@ -6,8 +6,8 @@ cmake_minimum_required(VERSION 2.6)
 # definição do nome do project. Não precisa ser obrigatoriamente o nome do diretório
 project(Piola)
 
-SET(LIBMATERIALS /home/felipefr/github/Piola/fortranCode/include)
-SET(LIBMATERIALS_LIB /home/felipefr/github/Piola/fortranCode/libroutines.so)
+SET(LIBMATERIALS /home/felipefr/github/Piola/fortranInterface/include)
+SET(LIBMATERIALS_LIB /home/felipefr/github/Piola/fortranInterface/libroutines.so)
 SET(ARMADILLO_DIR /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/include)
 SET(ARMADILLO_LIB_SO /home/felipefr/.programFiles/armadillo/armadillo-6.500.5/libarmadillo.so)
 

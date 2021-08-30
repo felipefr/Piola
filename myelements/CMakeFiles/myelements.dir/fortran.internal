@@ -1,0 +1,11 @@
+# The fortran modules provided by this target.
+provides
+ constitutivelib.mod
+ determinant.mod
+ finitestrainlib.mod
+ funcaux.mod
+ globalvariables.mod
+ loadinglib.mod
+ materialslib.mod
+ ptsgausslib.mod
+ ptsgausslib2.mod
