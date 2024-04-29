@@ -9,7 +9,7 @@ project(Piola)
 SET(LIBMATERIALS /home/felipe/sources/Piola/fortranInterface/include)
 SET(LIBMATERIALS_LIB /home/felipe/sources/Piola/fortranInterface/libroutines.so)
 SET(ARMADILLO_DIR /home/felipe/program_files/armadillo-6.500.5/include)
-SET(ARMADILLO_LIB_SO /home/felipe/program_files/armadillo/armadillo-6.500.5/libarmadillo.so)
+SET(ARMADILLO_LIB_SO /home/felipe/program_files/armadillo-6.500.5/build/libarmadillo.so)
 
 SET(Directoires ../src/)
 SET(fileExtensions .c .cpp .cc .h .hpp) 
