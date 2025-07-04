@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_Fortran
-  "/home/felipe/sources/Piola/fortranInterface/routines.f90" "/home/felipe/sources/Piola/fortranInterface/CMakeFiles/routines.dir/routines.f90.o"
+  "/home/frocha/sources/Piola/fortranInterface/routines.f90" "/home/frocha/sources/Piola/fortranInterface/CMakeFiles/routines.dir/routines.f90.o"
   )
 set(CMAKE_Fortran_COMPILER_ID "GNU")
 set(CMAKE_Fortran_SUBMODULE_SEP "@")
@@ -27,8 +27,12 @@ set(CMAKE_Fortran_TARGET_INCLUDE_PATH
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.

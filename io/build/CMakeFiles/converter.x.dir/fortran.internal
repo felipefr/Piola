@@ -1,0 +1,7 @@
+# The fortran modules provided by this target.
+provides
+ auxconverterfuncs.mod
+ converterdata.mod
+ coreconverterfuncs.mod
+ utils.mod
+ writeparam.mod

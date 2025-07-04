@@ -1,1 +1,1 @@
-/usr/bin/f95 -fPIC -shared -Wl,-soname,libroutines.so -o libroutines.so CMakeFiles/routines.dir/routines.f90.o  -Wl,-rpath,/home/felipe/sources/Piola/myelements /home/felipe/sources/Piola/myelements/libmyelements.so 
+/usr/bin/f95 -fPIC -shared -Wl,-soname,libroutines.so -o libroutines.so CMakeFiles/routines.dir/routines.f90.o  -Wl,-rpath,/home/frocha/sources/gpmaterials/build /home/frocha/sources/gpmaterials/build/libgpmaterials.so 

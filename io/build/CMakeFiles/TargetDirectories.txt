@@ -1,0 +1,3 @@
+/home/frocha/sources/Piola/io/build/CMakeFiles/converter.x.dir
+/home/frocha/sources/Piola/io/build/CMakeFiles/edit_cache.dir
+/home/frocha/sources/Piola/io/build/CMakeFiles/rebuild_cache.dir

@@ -7,7 +7,8 @@ enable_language (Fortran)
 project(routines)
 
 # SET(LIBMATERIALS_LIB /home/felipefr/github/gpmaterials/build/libgpmaterials.so)
-SET(LIBMATERIALS_LIB /home/felipe/sources/Piola/myelements/libmyelements.so)
+SET(LIBMATERIALS_LIB /home/frocha/sources/gpmaterials/build/libgpmaterials.so)
+
 
 ADD_DEFINITIONS(-fPIC -g -fbacktrace)
 

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/felipe/sources/Piola/fortranInterface/include -I/home/felipe/program_files/armadillo-6.500.5/include
+CXX_INCLUDES = -I/home/frocha/sources/Piola/fortranInterface/include -I/home/frocha/progs/armadillo-14.4.3/include
 
 CXX_FLAGS = 
 
